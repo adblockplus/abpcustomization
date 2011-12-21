@@ -143,7 +143,51 @@ var VerticalPreferencesLayout =
   QueryInterface: XPCOMUtils.generateQI([Ci.nsISupportsWeakReference, Ci.nsIObserver])
 };
 
+var StylesheetFeature =
+{
+  initialized: false,
+  stylesheetService: Cc["@mozilla.org/content/style-sheet-service;1"].getService(Ci.nsIStyleSheetService),
+
+  init: function()
+  {
+    if (this.initialized)
+      return;
+    this.initialized = true;
+
+    this.stylesheetService.loadAndRegisterSheet(
+      Services.io.newURI(this.stylesheet, null, null),
+      Ci.nsIStyleSheetService.USER_SHEET
+    );
+  },
+
+  shutdown: function()
+  {
+    if (!this.initialized)
+      return;
+    this.initialized = false;
+
+    this.stylesheetService.unregisterSheet(
+      Services.io.newURI(this.stylesheet, null, null),
+      Ci.nsIStyleSheetService.USER_SHEET
+    );
+  }
+};
+
+var RemoveCheckboxLabel =
+{
+  __proto__: StylesheetFeature,
+  stylesheet: "chrome://abpcustomization/content/noCheckboxLabel.css"
+};
+
+var RemoveActionsButton =
+{
+  __proto__: StylesheetFeature,
+  stylesheet: "chrome://abpcustomization/content/noActionButton.css"
+};
+
 var features =
 {
-  "vertical-preferences-layout": VerticalPreferencesLayout
+  "vertical-preferences-layout": VerticalPreferencesLayout,
+  "preferences-remove-checkbox-label": RemoveCheckboxLabel,
+  "preferences-remove-actions-button": RemoveActionsButton
 };

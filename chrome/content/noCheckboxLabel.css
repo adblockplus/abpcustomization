@@ -1,0 +1,9 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+@-moz-document url(chrome://adblockplus/content/ui/filters.xul)
+{
+  .subscription .checkbox-label-box
+  {
+    visibility: collapse;
+  }
+}
