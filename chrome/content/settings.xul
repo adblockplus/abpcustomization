@@ -28,4 +28,6 @@
 
 <vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
   <setting pref="extensions.abpcustomization.vertical-preferences-layout" type="bool" title="&verticalPreferencesLayout.label;"/>
+  <setting pref="extensions.abpcustomization.preferences-remove-checkbox-label" type="bool" title="&removeCheckboxLabel.label;"/>
+  <setting pref="extensions.abpcustomization.preferences-remove-actions-button" type="bool" title="&removeActionsButton.label;"/>
 </vbox>
