@@ -1,0 +1,2 @@
+content   abpcustomization jar:chrome/customization.jar!/content/
+locale    abpcustomization {{LOCALE}} jar:chrome/customization.jar!/locale/{{LOCALE}}/

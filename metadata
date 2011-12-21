@@ -1,0 +1,17 @@
+[general]
+id=customization@adblockplus.org
+basename=customization
+branchname=CUSTOMIZATION
+version=1.0a
+author=Wladimir Palant
+options=chrome://abpcustomization/content/settings.xul
+optionsType=2
+restartless=true
+
+[homepage]
+default=http://adblockplus.org/
+
+[compat]
+firefox=8.0/12.0a1
+thunderbird=8.0/12.0a1
+seamonkey=2.5/2.9a1
