@@ -68,10 +68,9 @@ var PrefsObserver =
   QueryInterface: XPCOMUtils.generateQI([Ci.nsISupportsWeakReference, Ci.nsIObserver])
 };
 
-var VerticalPreferencesLayout =
+var WindowFeature =
 {
   initialized: false,
-  prefsUrl: "chrome://adblockplus/content/ui/filters.xul",
 
   init: function()
   {
@@ -101,30 +100,16 @@ var VerticalPreferencesLayout =
 
   applyToWindow: function(window)
   {
-    if (window.location.href != this.prefsUrl)
+    if (window.location.href != this.windowUrl)
       return;
-
-    let content = window.document.getElementById("content");
-    let splitter = window.document.getElementById("filtersSplitter");
-    if (!content || !splitter)
-      return;
-
-    content.setAttribute("orient", "vertical");
-    splitter.setAttribute("orient", "vertical");
+    this._applyToWindow(window);
   },
 
   removeFromWindow: function(window)
   {
-    if (window.location.href != this.prefsUrl)
+    if (window.location.href != this.windowUrl)
       return;
-
-    let content = window.document.getElementById("content");
-    let splitter = window.document.getElementById("filtersSplitter");
-    if (!content || !splitter)
-      return;
-
-    content.removeAttribute("orient");
-    splitter.setAttribute("orient", "horizontal");
+    this._removeFromWindow(window);
   },
 
   observe: function(subject, topic, data)
@@ -141,6 +126,101 @@ var VerticalPreferencesLayout =
   },
 
   QueryInterface: XPCOMUtils.generateQI([Ci.nsISupportsWeakReference, Ci.nsIObserver])
+}
+
+var VerticalPreferencesLayout =
+{
+  __proto__: WindowFeature,
+  windowUrl: "chrome://adblockplus/content/ui/filters.xul",
+
+  _applyToWindow: function(window)
+  {
+    let content = window.document.getElementById("content");
+    let splitter = window.document.getElementById("filtersSplitter");
+    if (!content || !splitter)
+      return;
+
+    content.setAttribute("orient", "vertical");
+    splitter.setAttribute("orient", "vertical");
+  },
+
+  _removeFromWindow: function(window)
+  {
+    let content = window.document.getElementById("content");
+    let splitter = window.document.getElementById("filtersSplitter");
+    if (!content || !splitter)
+      return;
+
+    content.removeAttribute("orient");
+    splitter.setAttribute("orient", "horizontal");
+  }
+};
+
+var OneLineSubscriptions =
+{
+  __proto__: WindowFeature,
+  windowUrl: "chrome://adblockplus/content/ui/filters.xul",
+
+  _applyToWindow: function(window)
+  {
+    let list = window.document.getElementById("subscriptions");
+    let template = window.document.getElementById("subscriptionTemplate");
+    if (!list || !template || !("Templater" in window))
+      return;
+
+    let vbox = template.firstChild;
+    if (!vbox || vbox.localName != "vbox")
+      return;
+
+    let hbox1 = vbox.firstChild;
+    if (!hbox1 || hbox1.localName != "hbox")
+      return;
+
+    let hbox2 = hbox1.nextSibling;
+    if (!hbox2 || hbox2.localName != "hbox")
+      return;
+
+    let checkboxes = hbox1.getElementsByTagName("checkbox");
+    let insertionPoint = (checkboxes.length && checkboxes[0].parentNode == hbox1 ? checkboxes[0] : null);
+    while (hbox2.firstChild)
+    {
+      hbox2.firstChild.classList.add("movedByCustomization");
+      hbox1.insertBefore(hbox2.firstChild, insertionPoint);
+    }
+
+    for (let child = list.firstChild; child; child = child.nextSibling)
+      window.Templater.update(template, child);
+  },
+
+  _removeFromWindow: function(window)
+  {
+    let list = window.document.getElementById("subscriptions");
+    let template = window.document.getElementById("subscriptionTemplate");
+    if (!list || !template || !("Templater" in window))
+      return;
+
+    let vbox = template.firstChild;
+    if (!vbox || vbox.localName != "vbox")
+      return;
+
+    let hbox1 = vbox.firstChild;
+    if (!hbox1 || hbox1.localName != "hbox")
+      return;
+
+    let hbox2 = hbox1.nextSibling;
+    if (!hbox2 || hbox2.localName != "hbox")
+      return;
+
+    let moved = [].slice.call(hbox1.getElementsByClassName("movedByCustomization"));
+    for (let i = 0; i < moved.length; i++)
+    {
+      moved[i].classList.remove("movedByCustomization");
+      hbox2.appendChild(moved[i]);
+    }
+
+    for (let child = list.firstChild; child; child = child.nextSibling)
+      window.Templater.update(template, child);
+  }
 };
 
 var StylesheetFeature =
@@ -188,6 +268,7 @@ var RemoveActionsButton =
 var features =
 {
   "vertical-preferences-layout": VerticalPreferencesLayout,
+  "preferences-one-line-subscriptions": OneLineSubscriptions,
   "preferences-remove-checkbox-label": RemoveCheckboxLabel,
   "preferences-remove-actions-button": RemoveActionsButton
 };
