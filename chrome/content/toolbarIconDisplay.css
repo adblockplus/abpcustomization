@@ -1,0 +1,27 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+@-moz-document url("chrome://browser/content/browser.xul"),
+      url("chrome://navigator/content/navigator.xul"),
+      url("chrome://messenger/content/messenger.xul"),
+      url("chrome://messenger/content/messageWindow.xul"),
+      url("chrome://global/content/customizeToolbar.xul")
+{
+  #abp-toolbarbutton .toolbarbutton-icon
+  {
+    display: %%IMAGE_DISPLAY%% !important;
+  }
+
+  #abp-toolbarbutton .toolbarbutton-text
+  {
+    display: %%TEXT_DISPLAY%% !important;
+  }
+
+  #abp-toolbarbutton[abpstate="disabled"] .toolbarbutton-text
+  {
+    color: #999999;
+  }
+  #abp-toolbarbutton[abpstate="whitelisted"] .toolbarbutton-text
+  {
+    color: #008000;
+  }
+}

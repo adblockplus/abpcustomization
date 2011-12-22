@@ -48,7 +48,11 @@ var PrefsObserver =
 
     try
     {
-      let enabled = Services.prefs.getBoolPref(this.branch + feature);
+      let enabled;
+      if (Services.prefs.getPrefType(this.branch + feature) == Ci.nsIPrefBranch.PREF_INT)
+        enabled = Services.prefs.getIntPref(this.branch + feature) != 0;
+      else
+        enabled = Services.prefs.getBoolPref(this.branch + feature);
       if (enabled)
         features[feature].init();
       else
@@ -225,31 +229,34 @@ var OneLineSubscriptions =
 
 var StylesheetFeature =
 {
-  initialized: false,
+  uri: null,
   stylesheetService: Cc["@mozilla.org/content/style-sheet-service;1"].getService(Ci.nsIStyleSheetService),
 
   init: function()
   {
-    if (this.initialized)
+    let stylesheet = this.stylesheet;
+    if (this.uri && this.uri.spec == stylesheet)
       return;
-    this.initialized = true;
 
+    this.shutdown();
+
+    this.uri = Services.io.newURI(stylesheet, null, null);
     this.stylesheetService.loadAndRegisterSheet(
-      Services.io.newURI(this.stylesheet, null, null),
+      this.uri,
       Ci.nsIStyleSheetService.USER_SHEET
     );
   },
 
   shutdown: function()
   {
-    if (!this.initialized)
+    if (!this.uri)
       return;
-    this.initialized = false;
 
     this.stylesheetService.unregisterSheet(
-      Services.io.newURI(this.stylesheet, null, null),
+      this.uri,
       Ci.nsIStyleSheetService.USER_SHEET
     );
+    this.uri = null;
   }
 };
 
@@ -265,10 +272,42 @@ var RemoveActionsButton =
   stylesheet: "chrome://abpcustomization/content/noActionButton.css"
 };
 
+var ToolbarIconDisplay =
+{
+  __proto__: StylesheetFeature,
+  get template()
+  {
+    let request = Cc["@mozilla.org/xmlextras/xmlhttprequest;1"].createInstance(Ci.nsIJSXMLHttpRequest);
+    request.open("GET", "chrome://abpcustomization/content/toolbarIconDisplay.css", false);
+    request.overrideMimeType("text/plain");
+    request.send();
+    let result = request.responseText;
+
+    delete this.template;
+    this.__defineGetter__("template", function() result);
+
+    return this.template;
+  },
+  get stylesheet()
+  {
+  try{
+    const DISPLAY_IMAGE = 1;
+    const DISPLAY_TEXT = 2;
+    let type = Services.prefs.getIntPref(PrefsObserver.branch + "toolbar-icon-display");
+
+    let styles = this.template;
+    styles = styles.replace(/%%IMAGE_DISPLAY%%/gi, (type & DISPLAY_IMAGE) ? "-moz-box" : "none");
+    styles = styles.replace(/%%TEXT_DISPLAY%%/gi, (type & DISPLAY_TEXT) ? "-moz-box" : "none");
+    return "data:text/css;charset=utf-8," + encodeURIComponent(styles);
+  }catch(e) {Cu.reportError(e)}
+  }
+};
+
 var features =
 {
   "vertical-preferences-layout": VerticalPreferencesLayout,
   "preferences-one-line-subscriptions": OneLineSubscriptions,
   "preferences-remove-checkbox-label": RemoveCheckboxLabel,
-  "preferences-remove-actions-button": RemoveActionsButton
+  "preferences-remove-actions-button": RemoveActionsButton,
+  "toolbar-icon-display": ToolbarIconDisplay
 };
