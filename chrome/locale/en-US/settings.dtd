@@ -2,3 +2,9 @@
 <!ENTITY oneLineSubscriptions.label       "Filter Preferences: Subscription info on one line">
 <!ENTITY removeCheckboxLabel.label        "Filter Preferences: Remove &quot;Enabled&quot; checkbox label">
 <!ENTITY removeActionsButton.label        "Filter Preferences: Remove Actions buttons">
+<!ENTITY toolbarIconDisplay.label         "Toolbar icon display">
+<!ENTITY toolbarIconDisplay.default       "Default">
+<!ENTITY toolbarIconDisplay.image         "Image only">
+<!ENTITY toolbarIconDisplay.text          "Text only">
+<!ENTITY toolbarIconDisplay.both          "Image and text">
+
