@@ -40,4 +40,24 @@
     </radiogroup>
   </setting>
   <setting pref="extensions.abpcustomization.remove-menus" type="bool" title="&removeMenus.label;"/>
+  <setting type="control" title="&hiddenPrefs.label;">
+    &hiddenPrefs.description;
+  </setting>
+  <setting pref="extensions.adblockplus.defaulttoolbaraction" type="radio" title="&toolbarAction.label;">
+    <radiogroup>
+      <radio label="&toolbarAction.none;" value="-1"/>
+      <radio label="&toolbarAction.menu;" value="0"/>
+      <radio label="&toolbarAction.blockable;" value="1"/>
+      <radio label="&toolbarAction.filters;" value="2"/>
+      <radio label="&toolbarAction.disable;" value="3"/>
+    </radiogroup>
+  </setting>
+  <setting pref="extensions.adblockplus.composer_default" type="radio" title="&composerDefault.label;">
+    <radiogroup>
+      <radio label="&composerDefault.custom;" value="0"/>
+      <radio label="&composerDefault.exact;" value="1"/>
+      <radio label="&composerDefault.directory;" value="2"/>
+      <radio label="&composerDefault.site;" value="3"/>
+    </radiogroup>
+  </setting>
 </vbox>
