@@ -2,9 +2,27 @@
 <!ENTITY oneLineSubscriptions.label       "Filter Preferences: Subscription info on one line">
 <!ENTITY removeCheckboxLabel.label        "Filter Preferences: Remove &quot;Enabled&quot; checkbox label">
 <!ENTITY removeActionsButton.label        "Filter Preferences: Remove Actions buttons">
+
 <!ENTITY toolbarIconDisplay.label         "Toolbar/add-on bar item display">
 <!ENTITY toolbarIconDisplay.default       "Default">
 <!ENTITY toolbarIconDisplay.image         "Icon only">
 <!ENTITY toolbarIconDisplay.text          "Text only">
 <!ENTITY toolbarIconDisplay.both          "Icon and Text">
+
 <!ENTITY removeMenus.label                "Remove Adblock Plus from browser menus">
+
+<!ENTITY hiddenPrefs.label                "Hidden Adblock Plus options">
+<!ENTITY hiddenPrefs.description          "These options will not be reset if Customizations is uninstalled.">
+
+<!ENTITY toolbarAction.label              "Toolbar/add-on bar item left-click action">
+<!ENTITY toolbarAction.none               "None">
+<!ENTITY toolbarAction.menu               "Open menu">
+<!ENTITY toolbarAction.blockable          "Open blockable items">
+<!ENTITY toolbarAction.filters            "Open Filter Preferences">
+<!ENTITY toolbarAction.disable            "Disable Adblock Plus">
+
+<!ENTITY composerDefault.label            "Default selection in Filter Composer">
+<!ENTITY composerDefault.custom           "Custom pattern">
+<!ENTITY composerDefault.exact            "Exact match">
+<!ENTITY composerDefault.directory        "Entire directory">
+<!ENTITY composerDefault.site             "Entire site">
