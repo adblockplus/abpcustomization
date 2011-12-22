@@ -39,4 +39,5 @@
       <radio label="&toolbarIconDisplay.both;" value="3"/>
     </radiogroup>
   </setting>
+  <setting pref="extensions.abpcustomization.remove-menus" type="bool" title="&removeMenus.label;"/>
 </vbox>

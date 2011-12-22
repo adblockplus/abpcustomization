@@ -303,11 +303,18 @@ var ToolbarIconDisplay =
   }
 };
 
+var RemoveMenus =
+{
+  __proto__: StylesheetFeature,
+  stylesheet: "chrome://abpcustomization/content/hideMenus.css"
+};
+
 var features =
 {
   "vertical-preferences-layout": VerticalPreferencesLayout,
   "preferences-one-line-subscriptions": OneLineSubscriptions,
   "preferences-remove-checkbox-label": RemoveCheckboxLabel,
   "preferences-remove-actions-button": RemoveActionsButton,
-  "toolbar-icon-display": ToolbarIconDisplay
+  "toolbar-icon-display": ToolbarIconDisplay,
+  "remove-menus": RemoveMenus
 };
