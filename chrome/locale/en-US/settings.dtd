@@ -7,4 +7,4 @@
 <!ENTITY toolbarIconDisplay.image         "Icon only">
 <!ENTITY toolbarIconDisplay.text          "Text only">
 <!ENTITY toolbarIconDisplay.both          "Icon and Text">
-
+<!ENTITY removeMenus.label                "Remove Adblock Plus from browser menus">
