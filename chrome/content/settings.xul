@@ -41,6 +41,7 @@
       <radio label="&toolbarIconDisplay.both;" value="3"/>
     </radiogroup>
   </setting>
+  <setting pref="extensions.abpcustomization.green-icon" type="bool" title="&greenToolbarIcon.label;"/>
   <setting pref="extensions.abpcustomization.remove-menus" type="bool" title="&removeMenus.label;"/>
   <setting type="control" title="&hiddenPrefs.label;" class="abp-category-header">
     &hiddenPrefs.description;

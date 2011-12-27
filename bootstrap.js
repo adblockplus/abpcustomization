@@ -311,6 +311,12 @@ var ToolbarIconDisplay =
   }
 };
 
+var GreenIcon =
+{
+  __proto__: StylesheetFeature,
+  stylesheet: "chrome://abpcustomization/content/greenToolbarIcon.css"
+}
+
 var RemoveMenus =
 {
   __proto__: StylesheetFeature,
@@ -325,5 +331,6 @@ var features =
   "preferences-remove-checkbox-label": RemoveCheckboxLabel,
   "preferences-remove-actions-button": RemoveActionsButton,
   "toolbar-icon-display": ToolbarIconDisplay,
+  "green-icon": GreenIcon,
   "remove-menus": RemoveMenus
 };
