@@ -27,10 +27,12 @@
 <!DOCTYPE vbox SYSTEM "chrome://abpcustomization/locale/settings.dtd">
 
 <vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <setting type="control" title="&filterPreferences.label;" class="abp-category-header"/>
   <setting pref="extensions.abpcustomization.vertical-preferences-layout" type="bool" title="&verticalPreferencesLayout.label;"/>
   <setting pref="extensions.abpcustomization.preferences-one-line-subscriptions" type="bool" title="&oneLineSubscriptions.label;"/>
   <setting pref="extensions.abpcustomization.preferences-remove-checkbox-label" type="bool" title="&removeCheckboxLabel.label;"/>
   <setting pref="extensions.abpcustomization.preferences-remove-actions-button" type="bool" title="&removeActionsButton.label;"/>
+  <setting type="control" title="&misc.label;" class="abp-category-header"/>
   <setting pref="extensions.abpcustomization.toolbar-icon-display" type="radio" title="&toolbarIconDisplay.label;">
     <radiogroup>
       <radio label="&toolbarIconDisplay.default;" value="0" selected="true"/>
@@ -40,7 +42,7 @@
     </radiogroup>
   </setting>
   <setting pref="extensions.abpcustomization.remove-menus" type="bool" title="&removeMenus.label;"/>
-  <setting type="control" title="&hiddenPrefs.label;">
+  <setting type="control" title="&hiddenPrefs.label;" class="abp-category-header">
     &hiddenPrefs.description;
   </setting>
   <setting pref="extensions.adblockplus.defaulttoolbaraction" type="radio" title="&toolbarAction.label;">

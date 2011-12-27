@@ -49,7 +49,9 @@ var PrefsObserver =
     try
     {
       let enabled;
-      if (Services.prefs.getPrefType(this.branch + feature) == Ci.nsIPrefBranch.PREF_INT)
+      if (feature == "addon-page-styles")
+        enabled = true;
+      else if (Services.prefs.getPrefType(this.branch + feature) == Ci.nsIPrefBranch.PREF_INT)
         enabled = Services.prefs.getIntPref(this.branch + feature) != 0;
       else
         enabled = Services.prefs.getBoolPref(this.branch + feature);
@@ -260,6 +262,12 @@ var StylesheetFeature =
   }
 };
 
+var AddonPageStyles =
+{
+  __proto__: StylesheetFeature,
+  stylesheet: "chrome://abpcustomization/content/addonPageStyles.css"
+};
+
 var RemoveCheckboxLabel =
 {
   __proto__: StylesheetFeature,
@@ -311,6 +319,7 @@ var RemoveMenus =
 
 var features =
 {
+  "addon-page-styles": AddonPageStyles,
   "vertical-preferences-layout": VerticalPreferencesLayout,
   "preferences-one-line-subscriptions": OneLineSubscriptions,
   "preferences-remove-checkbox-label": RemoveCheckboxLabel,
