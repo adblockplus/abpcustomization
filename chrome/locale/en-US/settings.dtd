@@ -23,6 +23,8 @@
 <!ENTITY toolbarAction.filters            "Open Filter Preferences">
 <!ENTITY toolbarAction.disable            "Disable Adblock Plus">
 
+<!ENTITY greenToolbarIcon.label           "Special icon for whitelisted pages">
+
 <!ENTITY composerDefault.label            "Default selection in Filter Composer">
 <!ENTITY composerDefault.custom           "Custom pattern">
 <!ENTITY composerDefault.exact            "Exact match">
