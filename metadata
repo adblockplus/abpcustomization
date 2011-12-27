@@ -2,7 +2,7 @@
 id=customization@adblockplus.org
 basename=customization
 branchname=CUSTOMIZATION
-version=1.0
+version=1.0.1a
 author=Wladimir Palant
 options=chrome://abpcustomization/content/settings.xul
 optionsType=2
