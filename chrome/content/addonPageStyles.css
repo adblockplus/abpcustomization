@@ -1,0 +1,13 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+@-moz-document url("about:addons")
+{
+  .abp-category-header
+  {
+    font-weight: bold;
+  }
+  .abp-category-header:not([first-row="true"])
+  {
+    padding-top: 1em;
+  }
+}
