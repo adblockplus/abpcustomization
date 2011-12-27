@@ -10,7 +10,7 @@ restartless=true
 nojar=true
 
 [homepage]
-default=http://adblockplus.org/
+default=http://adblockplus.org/customizations
 
 [compat]
 firefox=8.0/12.0a1
