@@ -29,6 +29,9 @@ const Cu = Components.utils;
 Cu.import("resource://gre/modules/Services.jsm");
 Cu.import("resource://gre/modules/XPCOMUtils.jsm");
 
+function install(params, reason) {}
+function uninstall(params, reason) {}
+
 function startup(params, reason)
 {
   if (Services.vc.compare(Services.appinfo.platformVersion, "10.0") < 0)
