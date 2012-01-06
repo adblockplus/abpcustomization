@@ -25,6 +25,10 @@
 
 <!ENTITY greenToolbarIcon.label           "Special icon for whitelisted pages">
 
+<!ENTITY acceptableAdsDisplay.label         "&quot;Non-intrusive ads&quot; display in preferences">
+<!ENTITY acceptableAdsDisplay.checkbox      "Checkbox">
+<!ENTITY acceptableAdsDisplay.subscription  "Filter subscription">
+
 <!ENTITY composerDefault.label            "Default selection in Filter Composer">
 <!ENTITY composerDefault.custom           "Custom pattern">
 <!ENTITY composerDefault.exact            "Exact match">
