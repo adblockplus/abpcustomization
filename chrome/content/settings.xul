@@ -35,6 +35,12 @@
       <radio label="&toolbarAction.disable;" value="3"/>
     </radiogroup>
   </setting>
+  <setting pref="extensions.adblockplus.subscriptions_exceptionscheckbox" type="radio" title="&acceptableAdsDisplay.label;">
+    <radiogroup>
+      <radio label="&acceptableAdsDisplay.checkbox;" value="true"/>
+      <radio label="&acceptableAdsDisplay.subscription;" value="false"/>
+    </radiogroup>
+  </setting>
   <setting pref="extensions.adblockplus.composer_default" type="radio" title="&composerDefault.label;">
     <radiogroup>
       <radio label="&composerDefault.custom;" value="0"/>
