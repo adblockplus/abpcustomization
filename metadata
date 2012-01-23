@@ -1,6 +1,6 @@
 [general]
 id=customization@adblockplus.org
-basename=customization
+basename=abpcustomization
 branchname=CUSTOMIZATION
 version=1.0.1a
 author=Wladimir Palant
