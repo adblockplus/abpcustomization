@@ -4,113 +4,26 @@
  * http://mozilla.org/MPL/2.0/.
  */
 
-const Cc = Components.classes;
-const Ci = Components.interfaces;
-const Cu = Components.utils;
-
 Cu.import("resource://gre/modules/Services.jsm");
-Cu.import("resource://gre/modules/XPCOMUtils.jsm");
 
-function install(params, reason) {}
-function uninstall(params, reason) {}
-
-function startup(params, reason)
-{
-  if (Services.vc.compare(Services.appinfo.platformVersion, "10.0") < 0)
-    Components.manager.addBootstrappedManifestLocation(params.installPath);
-
-  PrefsObserver.init();
-}
-
-function shutdown(params, reason)
-{
-  if (Services.vc.compare(Services.appinfo.platformVersion, "10.0") < 0)
-    Components.manager.removeBootstrappedManifestLocation(params.installPath);
-
-  PrefsObserver.shutdown();
-}
-
-var PrefsObserver =
-{
-  branch: "extensions.abpcustomization.",
-
-  init: function()
-  {
-    for (let feature in features)
-      this.updateFeature(feature);
-
-    Services.prefs.addObserver(this.branch, this, true);
-  },
-
-  shutdown: function()
-  {
-    for (let feature in features)
-      features[feature].shutdown();
-
-    Services.prefs.removeObserver(this.branch, this);
-  },
-
-  updateFeature: function(feature)
-  {
-    if (!(feature in features))
-      return;
-
-    try
-    {
-      let enabled;
-      if (feature == "addon-page-styles")
-        enabled = true;
-      else if (Services.prefs.getPrefType(this.branch + feature) == Ci.nsIPrefBranch.PREF_INT)
-        enabled = Services.prefs.getIntPref(this.branch + feature) != 0;
-      else
-        enabled = Services.prefs.getBoolPref(this.branch + feature);
-      if (enabled)
-        features[feature].init();
-      else
-        features[feature].shutdown();
-    }
-    catch (e) {}
-  },
-
-  observe: function(subject, topic, data)
-  {
-    if (topic != "nsPref:changed" || data.indexOf(this.branch) != 0)
-      return;
-
-    this.updateFeature(data.substr(this.branch.length));
-  },
-
-  QueryInterface: XPCOMUtils.generateQI([Ci.nsISupportsWeakReference, Ci.nsIObserver])
-};
+let {Prefs} = require("prefs");
+let {WindowObserver} = require("windowObserver");
 
 var WindowFeature =
 {
-  initialized: false,
+  observer: null,
 
   init: function()
   {
-    if (this.initialized)
-      return;
-    this.initialized = true;
-
-    let e = Services.ww.getWindowEnumerator();
-    while (e.hasMoreElements())
-      this.applyToWindow(e.getNext().QueryInterface(Ci.nsIDOMWindow));
-
-    Services.ww.registerNotification(this);
+    if (!this.observer)
+      this.observer = new WindowObserver(this);
   },
 
   shutdown: function()
   {
-    if (!this.initialized)
-      return;
-    this.initialized = false;
-
-    let e = Services.ww.getWindowEnumerator();
-    while (e.hasMoreElements())
-      this.removeFromWindow(e.getNext().QueryInterface(Ci.nsIDOMWindow));
-
-    Services.ww.unregisterNotification(this);
+    if (this.observer)
+      this.observer.shutdown();
+    this.observer = null;
   },
 
   applyToWindow: function(window)
@@ -125,22 +38,7 @@ var WindowFeature =
     if (window.location.href != this.windowUrl)
       return;
     this._removeFromWindow(window);
-  },
-
-  observe: function(subject, topic, data)
-  {
-    if (topic == "domwindowopened")
-    {
-      let window = subject.QueryInterface(Ci.nsIDOMWindow);
-      window.addEventListener("DOMContentLoaded", function()
-      {
-        if (this.initialized)
-          this.applyToWindow(window);
-      }.bind(this), false);
-    }
-  },
-
-  QueryInterface: XPCOMUtils.generateQI([Ci.nsISupportsWeakReference, Ci.nsIObserver])
+  }
 }
 
 var VerticalPreferencesLayout =
@@ -256,6 +154,9 @@ var StylesheetFeature =
       this.uri,
       Ci.nsIStyleSheetService.USER_SHEET
     );
+
+    this.shutdown = this.shutdown.bind(this);
+    onShutdown.add(this.shutdown);
   },
 
   shutdown: function()
@@ -268,6 +169,7 @@ var StylesheetFeature =
       Ci.nsIStyleSheetService.USER_SHEET
     );
     this.uri = null;
+    onShutdown.remove(this.shutdown);
   }
 };
 
@@ -319,16 +221,14 @@ var ToolbarIconDisplay =
   },
   get stylesheet()
   {
-  try{
     const DISPLAY_IMAGE = 1;
     const DISPLAY_TEXT = 2;
-    let type = Services.prefs.getIntPref(PrefsObserver.branch + "toolbar-icon-display");
+    let type = Prefs["toolbar-icon-display"];
 
     let styles = this.template;
     styles = styles.replace(/%%IMAGE_DISPLAY%%/gi, (type & DISPLAY_IMAGE) ? "-moz-box" : "none");
     styles = styles.replace(/%%TEXT_DISPLAY%%/gi, (type & DISPLAY_TEXT) ? "-moz-box" : "none");
     return "data:text/css;charset=utf-8," + encodeURIComponent(styles);
-  }catch(e) {Cu.reportError(e)}
   }
 };
 
@@ -344,7 +244,7 @@ var RemoveMenus =
   stylesheet: "chrome://abpcustomization/content/hideMenus.css"
 };
 
-var features =
+let features =
 {
   "addon-page-styles": AddonPageStyles,
   "vertical-preferences-layout": VerticalPreferencesLayout,
@@ -357,3 +257,27 @@ var features =
   "green-icon": GreenIcon,
   "remove-menus": RemoveMenus
 };
+
+function updateFeature(name)
+{
+  if (name in features)
+  {
+    let enabled;
+    if (name == "addon-page-styles")
+      enabled = true;
+    else
+      enabled = Prefs[name];
+
+    if (enabled)
+      features[name].init();
+    else
+      features[name].shutdown();
+  }
+}
+
+
+// Initialize features and make sure to update them on changes
+for (let feature in features)
+  updateFeature(feature);
+
+Prefs.addListener(updateFeature);
