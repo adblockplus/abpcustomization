@@ -16,7 +16,7 @@ var WindowFeature =
   init: function()
   {
     if (!this.observer)
-      this.observer = new WindowObserver(this, "ready", true);
+      this.observer = new WindowObserver(this, "ready");
   },
 
   shutdown: function()
