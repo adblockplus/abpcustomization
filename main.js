@@ -208,7 +208,7 @@ var ToolbarIconDisplay =
   __proto__: StylesheetFeature,
   get template()
   {
-    let request = Cc["@mozilla.org/xmlextras/xmlhttprequest;1"].createInstance(Ci.nsIJSXMLHttpRequest);
+    let request = Cc["@mozilla.org/xmlextras/xmlhttprequest;1"].createInstance(Ci.nsIXMLHttpRequest);
     request.open("GET", "chrome://abpcustomization/content/toolbarIconDisplay.css", false);
     request.overrideMimeType("text/plain");
     request.send();
