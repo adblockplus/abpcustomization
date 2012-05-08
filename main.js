@@ -69,73 +69,6 @@ var VerticalPreferencesLayout =
   }
 };
 
-var OneLineSubscriptions =
-{
-  __proto__: WindowFeature,
-  windowUrl: "chrome://adblockplus/content/ui/filters.xul",
-
-  _applyToWindow: function(window)
-  {
-    let list = window.document.getElementById("subscriptions");
-    let template = window.document.getElementById("subscriptionTemplate");
-    if (!list || !template || !("Templater" in window))
-      return;
-
-    let vbox = template.firstChild;
-    if (!vbox || vbox.localName != "vbox")
-      return;
-
-    let hbox1 = vbox.firstChild;
-    if (!hbox1 || hbox1.localName != "hbox")
-      return;
-
-    let hbox2 = hbox1.nextSibling;
-    if (!hbox2 || hbox2.localName != "hbox")
-      return;
-
-    let checkboxes = hbox1.getElementsByTagName("checkbox");
-    let insertionPoint = (checkboxes.length && checkboxes[0].parentNode == hbox1 ? checkboxes[0] : null);
-    while (hbox2.firstChild)
-    {
-      hbox2.firstChild.classList.add("movedByCustomization");
-      hbox1.insertBefore(hbox2.firstChild, insertionPoint);
-    }
-
-    for (let child = list.firstChild; child; child = child.nextSibling)
-      window.Templater.update(template, child);
-  },
-
-  _removeFromWindow: function(window)
-  {
-    let list = window.document.getElementById("subscriptions");
-    let template = window.document.getElementById("subscriptionTemplate");
-    if (!list || !template || !("Templater" in window))
-      return;
-
-    let vbox = template.firstChild;
-    if (!vbox || vbox.localName != "vbox")
-      return;
-
-    let hbox1 = vbox.firstChild;
-    if (!hbox1 || hbox1.localName != "hbox")
-      return;
-
-    let hbox2 = hbox1.nextSibling;
-    if (!hbox2 || hbox2.localName != "hbox")
-      return;
-
-    let moved = [].slice.call(hbox1.getElementsByClassName("movedByCustomization"));
-    for (let i = 0; i < moved.length; i++)
-    {
-      moved[i].classList.remove("movedByCustomization");
-      hbox2.appendChild(moved[i]);
-    }
-
-    for (let child = list.firstChild; child; child = child.nextSibling)
-      window.Templater.update(template, child);
-  }
-};
-
 var StylesheetFeature =
 {
   uri: null,
@@ -177,6 +110,12 @@ var AddonPageStyles =
 {
   __proto__: StylesheetFeature,
   stylesheet: "chrome://abpcustomization/content/addonPageStyles.css"
+};
+
+var OneLineSubscriptions =
+{
+  __proto__: StylesheetFeature,
+  stylesheet: "chrome://abpcustomization/content/oneLineSubscriptions.css"
 };
 
 var RemoveActionsButton =
