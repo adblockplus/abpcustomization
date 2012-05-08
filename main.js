@@ -191,12 +191,6 @@ var RemoveActionsButton =
   stylesheet: "chrome://abpcustomization/content/noActionButton.css"
 };
 
-var BoldTitles =
-{
-  __proto__: StylesheetFeature,
-  stylesheet: "chrome://abpcustomization/content/boldTitles.css"
-};
-
 var NoItalics =
 {
   __proto__: StylesheetFeature,
@@ -251,7 +245,6 @@ let features =
   "preferences-one-line-subscriptions": OneLineSubscriptions,
   "preferences-remove-checkbox-label": RemoveCheckboxLabel,
   "preferences-remove-actions-button": RemoveActionsButton,
-  "preferences-bold-titles": BoldTitles,
   "preferences-no-italics": NoItalics,
   "toolbar-icon-display": ToolbarIconDisplay,
   "green-icon": GreenIcon,
