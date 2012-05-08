@@ -10,7 +10,6 @@
   <setting type="control" title="&filterPreferences.label;" class="abp-category-header"/>
   <setting pref="extensions.abpcustomization.vertical-preferences-layout" type="bool" title="&verticalPreferencesLayout.label;"/>
   <setting pref="extensions.abpcustomization.preferences-one-line-subscriptions" type="bool" title="&oneLineSubscriptions.label;"/>
-  <setting pref="extensions.abpcustomization.preferences-remove-checkbox-label" type="bool" title="&removeCheckboxLabel.label;"/>
   <setting pref="extensions.abpcustomization.preferences-remove-actions-button" type="bool" title="&removeActionsButton.label;"/>
   <setting type="control" title="&misc.label;" class="abp-category-header"/>
   <setting pref="extensions.abpcustomization.toolbar-icon-display" type="radio" title="&toolbarIconDisplay.label;">

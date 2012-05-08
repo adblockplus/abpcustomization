@@ -1,7 +1,6 @@
 <!ENTITY filterPreferences.label          "Filter Preferences customizations">
 <!ENTITY verticalPreferencesLayout.label  "Vertical layout">
 <!ENTITY oneLineSubscriptions.label       "Subscription info on one line">
-<!ENTITY removeCheckboxLabel.label        "Remove &quot;Enabled&quot; checkbox label">
 <!ENTITY removeActionsButton.label        "Remove Actions buttons">
 
 <!ENTITY misc.label                       "Misc customizations">

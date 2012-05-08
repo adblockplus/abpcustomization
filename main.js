@@ -179,12 +179,6 @@ var AddonPageStyles =
   stylesheet: "chrome://abpcustomization/content/addonPageStyles.css"
 };
 
-var RemoveCheckboxLabel =
-{
-  __proto__: StylesheetFeature,
-  stylesheet: "chrome://abpcustomization/content/noCheckboxLabel.css"
-};
-
 var RemoveActionsButton =
 {
   __proto__: StylesheetFeature,
@@ -237,7 +231,6 @@ let features =
   "addon-page-styles": AddonPageStyles,
   "vertical-preferences-layout": VerticalPreferencesLayout,
   "preferences-one-line-subscriptions": OneLineSubscriptions,
-  "preferences-remove-checkbox-label": RemoveCheckboxLabel,
   "preferences-remove-actions-button": RemoveActionsButton,
   "toolbar-icon-display": ToolbarIconDisplay,
   "green-icon": GreenIcon,
