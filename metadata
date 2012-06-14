@@ -6,8 +6,6 @@ version=1.0.1a
 author=Wladimir Palant
 options=chrome://abpcustomization/content/settings.xul
 optionsType=2
-restartless=true
-nojar=true
 
 [homepage]
 default=http://adblockplus.org/customizations
