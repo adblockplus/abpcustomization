@@ -16,7 +16,8 @@
   #abp-object-menuitem,
   #abp-media-menuitem,
   #abp-frame-menuitem,
-  #abp-removeWhitelist-menuitem
+  #abp-removeWhitelist-menuitem,
+  .abp-contextmenuitem
   {
     display: none !important;
   }
