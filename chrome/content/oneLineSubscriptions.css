@@ -8,13 +8,11 @@
 
 @-moz-document url(chrome://adblockplus/content/ui/filters.xul)
 {
-  .subscription > hbox > vbox,
   .subscription > vbox > hbox > vbox
   {
     -moz-box-orient: horizontal;
   }
 
-  .subscription > hbox > vbox > hbox,
   .subscription > vbox > hbox > vbox > hbox
   {
     -moz-box-flex: 1;
