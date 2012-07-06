@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Filtrų nustatymų derinimas">
+<!ENTITY acceptableAdsDisplay.subscription "Filtrų prenumeratos">
+<!ENTITY toolbarAction.none "Joks">
+<!ENTITY toolbarAction.filters "Atverti filtrų nustatymus">
+<!ENTITY toolbarAction.disable "Išjungti Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Žymimasis langelis">
+<!ENTITY composerDefault.label "Numatytasis pasirinkimas filtrų kūrime">
+<!ENTITY toolbarAction.menu "Atverti meniu">
+<!ENTITY toolbarAction.label "Įrankinės/papildinių juostos elemento kairio spragtelėjimo veiksmas">
+<!ENTITY oneLineSubscriptions.label "Prenumeratų informacija vienoje eilutėje">
+<!ENTITY greenToolbarIcon.label "Baltojo sąrašo puslapių piktograma">
+<!ENTITY acceptableAdsDisplay.label "„Neįkyrių reklamų“ rodymas nustatymuose">
+<!ENTITY composerDefault.exact "Tikslus atitikmuo">
+<!ENTITY removeActionsButton.label "Pašalinti veiksmų mygtukus">
+<!ENTITY toolbarAction.blockable "Atverti blokuojamus elementus">
+<!ENTITY composerDefault.directory "Visas aplankas">
+<!ENTITY toolbarIconDisplay.label "Įrankinės/papildinių juostos elementų rodymas">
+<!ENTITY hiddenPrefs.description "Šios parinktys, pašalinus „Customizations“ nebus atstatytos.">
+<!ENTITY removeMenus.label "Pašalinti Adblock Plus iš naršyklės meniu">
+<!ENTITY toolbarIconDisplay.text "Tik tekstas">
+<!ENTITY composerDefault.custom "Pasirinktinė forma">
+<!ENTITY misc.label "Įvairūs derinimai">
+<!ENTITY verticalPreferencesLayout.label "Vertikalus išdėstymas">
+<!ENTITY toolbarIconDisplay.default "Numatytas">
+<!ENTITY toolbarIconDisplay.image "Tik piktograma">
+<!ENTITY hiddenPrefs.label "Paslėptos Adblock Plus parinktys">
+<!ENTITY composerDefault.site "Visas puslapis">
+<!ENTITY toolbarIconDisplay.both "Piktograma ir tekstas">
