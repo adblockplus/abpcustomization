@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Suodatusasetusten mukauttaminen">
+<!ENTITY acceptableAdsDisplay.subscription "Suodatintilaus">
+<!ENTITY toolbarAction.none "Ei mitään">
+<!ENTITY toolbarAction.filters "Avaa Suodatusasetukset">
+<!ENTITY toolbarAction.disable "Poista Adblock Plus käytöstä">
+<!ENTITY acceptableAdsDisplay.checkbox "Valintaruutu">
+<!ENTITY composerDefault.label "Oletusvalinta luotaessa uutta suodatinta">
+<!ENTITY toolbarAction.menu "Avaa valikko">
+<!ENTITY toolbarAction.label "Työkalu-/lisäosapalkin painikkeiden hiiren vasemman napsautuksen toiminto">
+<!ENTITY oneLineSubscriptions.label "Tilaustiedot yhdellä rivillä">
+<!ENTITY greenToolbarIcon.label "Erikoiskuvake sallituille sivustoille">
+<!ENTITY acceptableAdsDisplay.label "&quot;Ei-häiritsevän mainonnan&quot; -kohdan näyttäminen asetuksissa">
+<!ENTITY composerDefault.exact "Täysi vastaavuus">
+<!ENTITY removeActionsButton.label "Poista toimintopainikkeet">
+<!ENTITY toolbarAction.blockable "Avaa estettävät elementit">
+<!ENTITY composerDefault.directory "Koko hakemisto">
+<!ENTITY toolbarIconDisplay.label "Työkalu-/lisäosarivin painikkeiden näyttäminen">
+<!ENTITY hiddenPrefs.description "Nämä asetukset eivät palaudu alkuarvoihin, jos Customizations positetaan.">
+<!ENTITY removeMenus.label "Poista Adblock Plus selaimen valikoista">
+<!ENTITY toolbarIconDisplay.text "Vain teksti">
+<!ENTITY composerDefault.custom "Oma muokkaus">
+<!ENTITY misc.label "Muut mukautukset">
+<!ENTITY verticalPreferencesLayout.label "Pystysuuntainen asettelu">
+<!ENTITY toolbarIconDisplay.default "Oletus">
+<!ENTITY toolbarIconDisplay.image "Vain kuvake">
+<!ENTITY hiddenPrefs.label "Piilotetut Adblock Plussan asetukset">
+<!ENTITY composerDefault.site "Koko sivusto">
+<!ENTITY toolbarIconDisplay.both "Kuvake ja teksti">
