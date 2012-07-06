@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Anpassungen der Filtereinstellungen">
+<!ENTITY acceptableAdsDisplay.subscription "Filterliste">
+<!ENTITY toolbarAction.none "Keine">
+<!ENTITY toolbarAction.filters "Filtereinstellungen öffnen">
+<!ENTITY toolbarAction.disable "Adblock Plus deaktivieren">
+<!ENTITY acceptableAdsDisplay.checkbox "Häkchen">
+<!ENTITY composerDefault.label "Standardauswahl beim Hinzufügen eines Filters">
+<!ENTITY toolbarAction.menu "Menü öffnen">
+<!ENTITY toolbarAction.label "Aktivität beim Anklicken des Toolbar-Symbols">
+<!ENTITY oneLineSubscriptions.label "Informationen zur Filterliste in einer Zeile">
+<!ENTITY greenToolbarIcon.label "Grünes Symbol anzeigen, wenn ABP auf einer Seite deaktiviert ist">
+<!ENTITY acceptableAdsDisplay.label "Anzeige der &quot;Nicht-aufdringlichen Werbung&quot; in Einstellungen">
+<!ENTITY composerDefault.exact "Genaue Übereinstimmung">
+<!ENTITY removeActionsButton.label "Aktionen-Schaltflächen entfernen">
+<!ENTITY toolbarAction.blockable "Liste blockierbarer Elemente öffnen">
+<!ENTITY composerDefault.directory "Ganzes Verzeichnis">
+<!ENTITY toolbarIconDisplay.label "Anzeige des Symbols in der Symbolleiste/Add-on-Leiste">
+<!ENTITY hiddenPrefs.description "Diese Einstellungen werden beim Deinstallieren von Customizations nicht zurückgesetzt.">
+<!ENTITY removeMenus.label "Adblock Plus aus Browser-Menüs entfernen">
+<!ENTITY toolbarIconDisplay.text "Nur Text">
+<!ENTITY composerDefault.custom "Benutzerdefinierter Muster">
+<!ENTITY misc.label "Sonstige Anpassungen">
+<!ENTITY verticalPreferencesLayout.label "Vertikale Anordnung">
+<!ENTITY toolbarIconDisplay.default "Standard">
+<!ENTITY toolbarIconDisplay.image "Nur Symbol">
+<!ENTITY hiddenPrefs.label "Versteckte Adblock Plus-Einstellungen">
+<!ENTITY composerDefault.site "Ganze Website">
+<!ENTITY toolbarIconDisplay.both "Symbol und Text">
