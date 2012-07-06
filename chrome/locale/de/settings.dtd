@@ -6,7 +6,7 @@
 <!ENTITY acceptableAdsDisplay.checkbox "Häkchen">
 <!ENTITY composerDefault.label "Standardauswahl beim Hinzufügen eines Filters">
 <!ENTITY toolbarAction.menu "Menü öffnen">
-<!ENTITY toolbarAction.label "Aktivität beim Anklicken des Toolbar-Symbols">
+<!ENTITY toolbarAction.label "Aktivität beim Anklicken des Symbols in der Symbolleiste">
 <!ENTITY oneLineSubscriptions.label "Informationen zur Filterliste in einer Zeile">
 <!ENTITY greenToolbarIcon.label "Grünes Symbol anzeigen, wenn ABP auf einer Seite deaktiviert ist">
 <!ENTITY acceptableAdsDisplay.label "Anzeige des Elements &quot;Nicht-aufdringliche Werbung&quot; in Filtereinstellungen">
