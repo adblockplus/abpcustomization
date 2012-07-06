@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "自訂條件偏好設定">
+<!ENTITY acceptableAdsDisplay.subscription "過濾條件集">
+<!ENTITY toolbarAction.none "無">
+<!ENTITY toolbarAction.filters "開啟條件偏好設定">
+<!ENTITY toolbarAction.disable "停用 Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "核取方塊">
+<!ENTITY composerDefault.label "條件產生器預設的範圍">
+<!ENTITY toolbarAction.menu "開啟目錄">
+<!ENTITY toolbarAction.label "在工具列/附加元件列按下左鍵時的動作">
+<!ENTITY oneLineSubscriptions.label "只用一行顯示過濾條件集資訊">
+<!ENTITY greenToolbarIcon.label "處於白名單的頁面時顯示特殊圖示">
+<!ENTITY acceptableAdsDisplay.label "「非侵入式廣告」在偏好設定中的顯示方式">
+<!ENTITY composerDefault.exact "整個網址">
+<!ENTITY removeActionsButton.label "移除操作按鈕">
+<!ENTITY toolbarAction.blockable "開啟可阻擋項目">
+<!ENTITY composerDefault.directory "整個目錄">
+<!ENTITY toolbarIconDisplay.label "在工具列/附加元件列顯示">
+<!ENTITY hiddenPrefs.description "即使移除 Customizations 也不會還原這些設定。">
+<!ENTITY removeMenus.label "從瀏覽器目錄中移除 Adblock Plus 選項">
+<!ENTITY toolbarIconDisplay.text "只有文字">
+<!ENTITY composerDefault.custom "自訂格式">
+<!ENTITY misc.label "其他自訂選項">
+<!ENTITY verticalPreferencesLayout.label "垂直版面">
+<!ENTITY toolbarIconDisplay.default "預設值">
+<!ENTITY toolbarIconDisplay.image "只有圖示">
+<!ENTITY hiddenPrefs.label "隱藏的 Adblock Plus 選項">
+<!ENTITY composerDefault.site "整個網站">
+<!ENTITY toolbarIconDisplay.both "圖示和文字">
