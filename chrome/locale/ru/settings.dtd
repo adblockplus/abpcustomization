@@ -3,7 +3,7 @@
 <!ENTITY toolbarAction.none "Никакого">
 <!ENTITY toolbarAction.filters "Настройки фильтров">
 <!ENTITY toolbarAction.disable "Отключить Adblock Plus">
-<!ENTITY acceptableAdsDisplay.checkbox "Галочка">
+<!ENTITY acceptableAdsDisplay.checkbox "Флажок">
 <!ENTITY composerDefault.label "Выбор по умолчанию при добавлении фильтра">
 <!ENTITY toolbarAction.menu "Открыть меню">
 <!ENTITY toolbarAction.label "Действие при щелчке по элементу панели инструментов/дополнений">
