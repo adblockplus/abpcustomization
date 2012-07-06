@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Настройки диалога «Настройки фильтров»">
+<!ENTITY acceptableAdsDisplay.subscription "Подписка на фильтры">
+<!ENTITY toolbarAction.none "Никакого">
+<!ENTITY toolbarAction.filters "Настройки фильтров">
+<!ENTITY toolbarAction.disable "Отключить Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Галочка">
+<!ENTITY composerDefault.label "Выбор по умолчанию при добавлении фильтра">
+<!ENTITY toolbarAction.menu "Открыть меню">
+<!ENTITY toolbarAction.label "Действие при щелчке по элементу панели инструментов/дополнений">
+<!ENTITY oneLineSubscriptions.label "Информация о подписке одной строкой">
+<!ENTITY greenToolbarIcon.label "Зеленый значок, если Adblock Plus отключен на странице">
+<!ENTITY acceptableAdsDisplay.label "Отображение элемента «ненавязчивая реклама» в настройках">
+<!ENTITY composerDefault.exact "Точное совпадение">
+<!ENTITY removeActionsButton.label "Убрать кнопки «Действия»">
+<!ENTITY toolbarAction.blockable "Список элементов страницы">
+<!ENTITY composerDefault.directory "Весь каталог">
+<!ENTITY toolbarIconDisplay.label "Отображение элемента панели инструментов/дополнений">
+<!ENTITY hiddenPrefs.description "Эти настойки останутся даже после удаления Customizations.">
+<!ENTITY removeMenus.label "Убрать Adblock Plus из всех меню браузера">
+<!ENTITY toolbarIconDisplay.text "Только текст">
+<!ENTITY composerDefault.custom "Собственный шаблон">
+<!ENTITY misc.label "Прочие настройки">
+<!ENTITY verticalPreferencesLayout.label "Фильтры под подписками">
+<!ENTITY toolbarIconDisplay.default "Стандартное">
+<!ENTITY toolbarIconDisplay.image "Только картинка">
+<!ENTITY hiddenPrefs.label "Скрытые настройки Adblock Plus">
+<!ENTITY composerDefault.site "Весь сайт">
+<!ENTITY toolbarIconDisplay.both "Картинка и текст">
