@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "התאמות אישיות עבור העדפות המסנן">
+<!ENTITY acceptableAdsDisplay.subscription "הרשמת מסנן">
+<!ENTITY toolbarAction.none "אף אחד">
+<!ENTITY toolbarAction.filters "פתיחת העדפות סינון">
+<!ENTITY toolbarAction.disable "נטרול Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "תיבת סימון">
+<!ENTITY composerDefault.label "בחירת ברירת המחדל ביצירת מסנן">
+<!ENTITY toolbarAction.menu "פתיחת תפריט">
+<!ENTITY toolbarAction.label "פעולת הלחיצה השמאלית על סרגל הכלים/פריט סרגל התוספות">
+<!ENTITY oneLineSubscriptions.label "פרטי הרשמה בשורה אחת">
+<!ENTITY greenToolbarIcon.label "אייקון מיוחד עבור עמודים ברשימת המותרים(whitelisted)">
+<!ENTITY acceptableAdsDisplay.label "תצוגת &quot;מודעות לא פולשניות&quot; בהעדפות">
+<!ENTITY composerDefault.exact "התאמה מדויקת">
+<!ENTITY removeActionsButton.label "הסרת כפתורי פעולות">
+<!ENTITY toolbarAction.blockable "פתיחת פריטים הניתנים לחסימה">
+<!ENTITY composerDefault.directory "כל הספרייה">
+<!ENTITY toolbarIconDisplay.label "הצגת סרגל הכלים/פריט סרגל התוספות">
+<!ENTITY hiddenPrefs.description "אפשרויות אלה לא יאופסו אם Customizations מוסר.">
+<!ENTITY removeMenus.label "הסרת Adblock Plus פלוס מתפריטי הדפדפן">
+<!ENTITY toolbarIconDisplay.text "טקסט בלבד">
+<!ENTITY composerDefault.custom "תבנית מותאמת אישית">
+<!ENTITY misc.label "התאמות אישיות שונות">
+<!ENTITY verticalPreferencesLayout.label "פריסה אנכית">
+<!ENTITY toolbarIconDisplay.default "ברירת מחדל">
+<!ENTITY toolbarIconDisplay.image "אייקון בלבד">
+<!ENTITY hiddenPrefs.label "אפשרויות Adblock Plus מוסתרת">
+<!ENTITY composerDefault.site "כל האתר">
+<!ENTITY toolbarIconDisplay.both "אייקון וטקסט">
