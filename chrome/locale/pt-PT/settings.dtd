@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Preferências do filtro">
+<!ENTITY acceptableAdsDisplay.subscription "Assinar filtro">
+<!ENTITY toolbarAction.none "Nenhum">
+<!ENTITY toolbarAction.filters "Abrir as Preferências do filtro">
+<!ENTITY toolbarAction.disable "Desactivar o Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Caixa de selecção">
+<!ENTITY composerDefault.label "Selecção padrão no compositor de filtros">
+<!ENTITY toolbarAction.menu "Abrir menu">
+<!ENTITY toolbarAction.label "Acções do clique esquerdo da Barra de ferramentas/Barra de add-on">
+<!ENTITY oneLineSubscriptions.label "Informações de assinatura numa única linha">
+<!ENTITY greenToolbarIcon.label "Ícone especial para páginas na lista branca">
+<!ENTITY acceptableAdsDisplay.label "Mostrar no painel de preferências &quot;Anúncios Não-intrusivos&quot;">
+<!ENTITY composerDefault.exact "Correspondência exacta">
+<!ENTITY removeActionsButton.label "Remover botões de acção">
+<!ENTITY toolbarAction.blockable "Abrir itens bloqueáveis">
+<!ENTITY composerDefault.directory "Todo o directório">
+<!ENTITY toolbarIconDisplay.label "Mostrar Barra de ferramentas/Barra de add-on">
+<!ENTITY hiddenPrefs.description "Estas opções não serão reiniciadas se o Customizations for desinstalado.">
+<!ENTITY removeMenus.label "Remover o Adblock Plus dos menus do navegador">
+<!ENTITY toolbarIconDisplay.text "Texto apenas">
+<!ENTITY composerDefault.custom "Padrão personalizado">
+<!ENTITY misc.label "Personalizações variadas">
+<!ENTITY verticalPreferencesLayout.label "Layout vertical">
+<!ENTITY toolbarIconDisplay.default "Padrão">
+<!ENTITY toolbarIconDisplay.image "Ícone apenas">
+<!ENTITY hiddenPrefs.label "Opções ocultas do Adblock Plus">
+<!ENTITY composerDefault.site "Todo o site">
+<!ENTITY toolbarIconDisplay.both "Ícone e texto">
