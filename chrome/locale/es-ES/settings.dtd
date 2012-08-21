@@ -1,24 +1,28 @@
-<!ENTITY filterPreferences.label "Personalizaciones de las preferencias de filtros">
+<!ENTITY filterPreferences.label "Personalizaciones de las Preferencias de filtros">
+<!ENTITY acceptableAdsDisplay.subscription "Suscripción de filtros">
 <!ENTITY toolbarAction.none "Ninguno">
 <!ENTITY toolbarAction.filters "Abrir Preferencias de filtros">
-<!ENTITY toolbarAction.disable "Deshabilitar Adblock Plus">
+<!ENTITY toolbarAction.disable "Desactivar Adblock Plus">
 <!ENTITY acceptableAdsDisplay.checkbox "Casilla de verificación">
+<!ENTITY composerDefault.label "Selección predeterminada en Creador de filtros">
 <!ENTITY toolbarAction.menu "Abrir menú">
-<!ENTITY acceptableAdsDisplay.subscription "Suscripción de filtros">
-<!ENTITY greenToolbarIcon.label "Icono especial para las páginas en lista blanca">
+<!ENTITY toolbarAction.label "Acción con clic izquierdo sobre elemento de la barra de herramientas/complementos">
 <!ENTITY oneLineSubscriptions.label "Información de suscripción en una sola línea">
+<!ENTITY greenToolbarIcon.label "Icono especial para páginas en lista blanca">
+<!ENTITY acceptableAdsDisplay.label "Mostrar &quot;Permitir publicidad no intrusiva&quot; en Preferencias">
 <!ENTITY composerDefault.exact "Coincidencia exacta">
 <!ENTITY removeActionsButton.label "Eliminar botones de Acciones">
-<!ENTITY toolbarAction.blockable "Abrir elementos bloqueables">
-<!ENTITY composerDefault.directory "Directorio completo">
-<!ENTITY hiddenPrefs.description "Estas opciones no se restablecerán si Customizations es desinstalado.">
-<!ENTITY removeMenus.label "Quitar Adblock Plus de los menús del navegador">
-<!ENTITY toolbarIconDisplay.text "Solo texto">
+<!ENTITY toolbarAction.blockable "Abrir Elementos bloqueables">
+<!ENTITY composerDefault.directory "Todo el directorio">
+<!ENTITY toolbarIconDisplay.label "Mostrar elemento de la barra de herramientas/complementos">
+<!ENTITY hiddenPrefs.description "Estas opciones no se restablecerán si se desinstala Customizations.">
+<!ENTITY removeMenus.label "Eliminar Adblock Plus de los menús del navegador">
+<!ENTITY toolbarIconDisplay.text "Sólo texto">
 <!ENTITY composerDefault.custom "Patrón personalizado">
 <!ENTITY misc.label "Otras personalizaciones">
 <!ENTITY verticalPreferencesLayout.label "Diseño vertical">
 <!ENTITY toolbarIconDisplay.default "Por defecto">
-<!ENTITY toolbarIconDisplay.image "Solo icono">
+<!ENTITY toolbarIconDisplay.image "Sólo icono">
 <!ENTITY hiddenPrefs.label "Opciones ocultas de Adblock Plus">
 <!ENTITY composerDefault.site "Todo el sitio">
 <!ENTITY toolbarIconDisplay.both "Icono y texto">
