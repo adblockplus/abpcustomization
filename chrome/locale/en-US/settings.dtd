@@ -4,7 +4,7 @@
 <!ENTITY removeActionsButton.label        "Remove Actions buttons">
 
 <!ENTITY misc.label                       "Misc customizations">
-<!ENTITY toolbarIconDisplay.label         "Toolbar/add-on bar item display">
+<!ENTITY toolbarIconDisplay.label         "Toolbar item display">
 <!ENTITY toolbarIconDisplay.default       "Default">
 <!ENTITY toolbarIconDisplay.image         "Icon only">
 <!ENTITY toolbarIconDisplay.text          "Text only">
@@ -15,7 +15,7 @@
 <!ENTITY hiddenPrefs.label                "Hidden Adblock Plus options">
 <!ENTITY hiddenPrefs.description          "These options will not be reset if Customizations is uninstalled.">
 
-<!ENTITY toolbarAction.label              "Toolbar/add-on bar item left-click action">
+<!ENTITY toolbarAction.label              "Toolbar item left-click action">
 <!ENTITY toolbarAction.none               "None">
 <!ENTITY toolbarAction.menu               "Open menu">
 <!ENTITY toolbarAction.blockable          "Open blockable items">
