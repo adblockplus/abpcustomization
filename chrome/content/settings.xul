@@ -14,7 +14,7 @@
   <setting type="control" title="&misc.label;" class="abp-category-header"/>
   <setting id="abpcustomization-icondisplay" pref="extensions.abpcustomization.toolbar-icon-display" type="radio" title="&toolbarIconDisplay.label;">
     <radiogroup>
-      <radio label="&toolbarIconDisplay.default;" value="0" selected="true"/>
+      <radio label="&toolbarIconDisplay.default;" value="0"/>
       <radio label="&toolbarIconDisplay.image;" value="1"/>
       <radio label="&toolbarIconDisplay.text;" value="2"/>
       <radio label="&toolbarIconDisplay.both;" value="3"/>
