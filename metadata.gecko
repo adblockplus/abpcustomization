@@ -7,7 +7,7 @@ options=chrome://abpcustomization/content/settings.xul
 optionsType=2
 
 [homepage]
-default=http://adblockplus.org/customizations
+default=https://adblockplus.org/customizations
 
 [compat]
 firefox=16.0/37.0
