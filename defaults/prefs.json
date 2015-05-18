@@ -1,0 +1,12 @@
+{
+  "defaults": {
+    "vertical-preferences-layout": false,
+    "preferences-one-line-subscriptions": false,
+    "preferences-remove-actions-button": false,
+    "preferences-no-italics": false,
+    "preferences-bold-titles": false,
+    "toolbar-icon-display": 0,
+    "green-icon": false,
+    "remove-menus": false
+  }
+}
