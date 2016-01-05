@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "फ़िल्टर वरीयताएँ को मनपसंद बनाएँ">
+<!ENTITY acceptableAdsDisplay.subscription "फ़िल्टर सदस्यता ">
+<!ENTITY toolbarAction.none "कोई नहीं ">
+<!ENTITY toolbarAction.filters "खुला फ़िल्टर वरीयताएँ">
+<!ENTITY toolbarAction.disable "ऍडब्लॉक प्लस को अक्षम करें ">
+<!ENTITY acceptableAdsDisplay.checkbox "चेक बॉक्स ">
+<!ENTITY composerDefault.label "डिफ़ॉल्ट फ़िल्टर में चयन">
+<!ENTITY toolbarAction.menu "मेनू खोलें ">
+<!ENTITY toolbarAction.label "उपकरण पट् टी आइटम बाएँ क्लिक करें">
+<!ENTITY oneLineSubscriptions.label "सदस्यता जानकारी एक पंक्ति पर">
+<!ENTITY greenToolbarIcon.label "Whitelisted पृष्ठों के लिए विशेष चिह्न">
+<!ENTITY acceptableAdsDisplay.label "&quot;गैर-दखल विज्ञापन&quot; वरीयताएँ में प्रदर्शित करें">
+<!ENTITY composerDefault.exact "सटीक मेल ">
+<!ENTITY removeActionsButton.label "एक्शन बटनों को हटाएँ ">
+<!ENTITY toolbarAction.blockable "Blockable आइटम्स खोलना">
+<!ENTITY composerDefault.directory "सम्पूर्ण डाइरेक्टरी ">
+<!ENTITY toolbarIconDisplay.label "उपकरण पट् टी आइटम प्रदर्शन">
+<!ENTITY hiddenPrefs.description "इन विकल्पों को रीसेट नहीं किया जाएगा यदि अनुकूलनों की स्थापना रद्द की है।">
+<!ENTITY removeMenus.label "Adblock प्लस ब्राउज़र मेनू से निकालें">
+<!ENTITY toolbarIconDisplay.text "केवल पाठ">
+<!ENTITY composerDefault.custom "संसोधित पैटर्न ">
+<!ENTITY misc.label "विभिन्न कस्टमाइजेशन ">
+<!ENTITY verticalPreferencesLayout.label "अनुलंब लेआउट">
+<!ENTITY toolbarIconDisplay.default "डिफ़ाल्ट ">
+<!ENTITY toolbarIconDisplay.image "केवल चिह्न">
+<!ENTITY hiddenPrefs.label "छुपे Adblock प्लस विकल्प">
+<!ENTITY composerDefault.site "सम्पूर्ण साइट ">
+<!ENTITY toolbarIconDisplay.both "आइकॉन और टेक्स्ट ">

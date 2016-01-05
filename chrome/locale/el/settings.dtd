@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Προσαρμογές Προτιμήσεων Φίλτρων">
+<!ENTITY acceptableAdsDisplay.subscription "Συνδρομή Φίλτρων">
+<!ENTITY toolbarAction.none "Καμία">
+<!ENTITY toolbarAction.filters "Άνοιγμα Προτιμήσεων Φίλτρων">
+<!ENTITY toolbarAction.disable "Απενεργοποίηση του Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Πλαίσιο επιλογής">
+<!ENTITY composerDefault.label "Προεπιλεγμένη επιλογή στον Συντάκτη Φίλτρου">
+<!ENTITY toolbarAction.menu "Άνοιγμα μενού">
+<!ENTITY toolbarAction.label "Ενέργεια αριστερού κλικ σε στοιχείο της γραμμής εργαλείων">
+<!ENTITY oneLineSubscriptions.label "Πληροφορίες συνδρομής σε μία γραμμή">
+<!ENTITY greenToolbarIcon.label "Ειδικό εικονίδιο για τη λίστα επιτρεπόμενων σελίδων">
+<!ENTITY acceptableAdsDisplay.label "Εμφάνιση &quot;Μη-παρεμβατικές διαφημίσεις&quot; στις προτιμήσεις">
+<!ENTITY composerDefault.exact "Ακριβής αντιστοιχία">
+<!ENTITY removeActionsButton.label "Αφαίρεση κουμπιών Ενεργειών">
+<!ENTITY toolbarAction.blockable "Άνοιγμα στοιχείων που μπορούν να μπλοκαριστούν">
+<!ENTITY composerDefault.directory "Ολόκληρος ο κατάλογος">
+<!ENTITY toolbarIconDisplay.label "Εμφάνιση στοιχείου γραμμής εργαλείων">
+<!ENTITY hiddenPrefs.description "Αυτές οι επιλογές δε θα επαναφερθούν αν το Προσαρμογές για το Adblock Plus απεγκατασταθεί.">
+<!ENTITY removeMenus.label "Αφαίρεση του Adblock Plus από τα μενού του περιηγητή">
+<!ENTITY toolbarIconDisplay.text "Κείμενο μόνο">
+<!ENTITY composerDefault.custom "Προσαρμοσμένο μοτίβο">
+<!ENTITY misc.label "Διάφορες προσαρμογές">
+<!ENTITY verticalPreferencesLayout.label "Κάθετη διάταξη">
+<!ENTITY toolbarIconDisplay.default "Προεπιλογή">
+<!ENTITY toolbarIconDisplay.image "Εικονίδιο μόνο">
+<!ENTITY hiddenPrefs.label "Κρυφές επιλογές του Adblock Plus">
+<!ENTITY composerDefault.site "Ολόκληρη η τοποθεσία">
+<!ENTITY toolbarIconDisplay.both "Εικονίδιο και Κείμενο">

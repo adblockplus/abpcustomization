@@ -1,0 +1,23 @@
+<!ENTITY toolbarAction.filters "Vula Hlunga Izintandokazi">
+<!ENTITY misc.label "Misc customizations">
+<!ENTITY toolbarAction.none "nokukodwa
+	
+">
+<!ENTITY verticalPreferencesLayout.label "
+layout mpo">
+<!ENTITY toolbarIconDisplay.default "Okuzenzakalelayo">
+<!ENTITY toolbarIconDisplay.both "Icon nombhalo">
+<!ENTITY filterPreferences.label "Ihluzo Izintandokazi customizations">
+<!ENTITY toolbarIconDisplay.image "icon kuphela">
+<!ENTITY removeMenus.label "Susa Adblock Plus kusuka amamenyu isiphequluli">
+<!ENTITY hiddenPrefs.description "Lezi ongakhetha ngeke kabusha uma Customizations is ukukhishwa.">
+<!ENTITY oneLineSubscriptions.label "Ulwazi subscription on line eyodwa">
+<!ENTITY hiddenPrefs.label "
+Ezifihliwe ongakhetha Adblock Plus">
+<!ENTITY removeActionsButton.label "Susa Izenzo izinkinobho">
+<!ENTITY toolbarAction.blockable "
+Items Vula blockable">
+<!ENTITY toolbarAction.disable "Khubaza Adblock Plus">
+<!ENTITY greenToolbarIcon.label "Icon okukhethekile amakhasi whitelisted">
+<!ENTITY toolbarIconDisplay.text "umbhalo kuphela">
+<!ENTITY toolbarAction.menu "Vula imenyu">

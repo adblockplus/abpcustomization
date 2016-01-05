@@ -1,4 +1,28 @@
-<!ENTITY oneLineSubscriptions.label "Abonnement informatie op één regel">
-<!ENTITY removeActionsButton.label "Actie-knoppen verwijderen">
-<!ENTITY verticalPreferencesLayout.label "Verticale lay-out">
-<!ENTITY filterPreferences.label "Filter voorkeuren aanpassingen">
+<!ENTITY filterPreferences.label "Aanpassingen van filtervoorkeuren">
+<!ENTITY acceptableAdsDisplay.subscription "Filterabonnement">
+<!ENTITY toolbarAction.none "Geen">
+<!ENTITY toolbarAction.filters "Filtervoorkeuren openen">
+<!ENTITY toolbarAction.disable "Adblock Plus uitschakelen">
+<!ENTITY acceptableAdsDisplay.checkbox "Selectievakje">
+<!ENTITY composerDefault.label "Standaardselectie bij het toevoegen van filters">
+<!ENTITY toolbarAction.menu "Menu openen">
+<!ENTITY toolbarAction.label "Linkermuisklikactie voor werkbalkitem">
+<!ENTITY oneLineSubscriptions.label "Abonnementsinfo op één regel">
+<!ENTITY greenToolbarIcon.label "Speciaal pictogram voor pagina’s op witte lijst">
+<!ENTITY acceptableAdsDisplay.label "Weergave van ‘Niet-opdringerige advertenties’ in voorkeuren">
+<!ENTITY composerDefault.exact "Exacte overeenkomst">
+<!ENTITY removeActionsButton.label "Knoppen ‘Acties’ verwijderen">
+<!ENTITY toolbarAction.blockable "Blokkeerbare items openen">
+<!ENTITY composerDefault.directory "Hele map">
+<!ENTITY toolbarIconDisplay.label "Weergave van werkbalkitem">
+<!ENTITY hiddenPrefs.description "Deze opties worden niet teruggezet als Customizations wordt gede-installeerd.">
+<!ENTITY removeMenus.label "Adblock Plus uit browsermenu’s verwijderen">
+<!ENTITY toolbarIconDisplay.text "Alleen tekst">
+<!ENTITY composerDefault.custom "Aangepast patroon">
+<!ENTITY misc.label "Diverse aanpassingen">
+<!ENTITY verticalPreferencesLayout.label "Verticale indeling">
+<!ENTITY toolbarIconDisplay.default "Standaard">
+<!ENTITY toolbarIconDisplay.image "Alleen pictogram">
+<!ENTITY hiddenPrefs.label "Verborgen Adblock Plus-opties">
+<!ENTITY composerDefault.site "Hele website">
+<!ENTITY toolbarIconDisplay.both "Pictogram en tekst">

@@ -9,12 +9,12 @@
 <!ENTITY toolbarAction.label "Aktivität beim Anklicken des Symbols in der Symbolleiste">
 <!ENTITY oneLineSubscriptions.label "Informationen zur Filterliste in einer Zeile">
 <!ENTITY greenToolbarIcon.label "Grünes Symbol anzeigen, wenn ABP auf einer Seite deaktiviert ist">
-<!ENTITY acceptableAdsDisplay.label "Anzeige des Elements &quot;Nicht-aufdringliche Werbung&quot; in Filtereinstellungen">
+<!ENTITY acceptableAdsDisplay.label "Anzeige der Option „Nicht-aufdringliche Werbung“ in den Filtereinstellungen">
 <!ENTITY composerDefault.exact "Genaue Übereinstimmung">
-<!ENTITY removeActionsButton.label "Aktionen-Schaltflächen entfernen">
+<!ENTITY removeActionsButton.label "Aktionsknöpfe entfernen">
 <!ENTITY toolbarAction.blockable "Liste blockierbarer Elemente öffnen">
 <!ENTITY composerDefault.directory "Ganzes Verzeichnis">
-<!ENTITY toolbarIconDisplay.label "Anzeige des Symbols in der Symbolleiste/Add-on-Leiste">
+<!ENTITY toolbarIconDisplay.label "Anzeige des Symbols in der Symbolleiste">
 <!ENTITY hiddenPrefs.description "Diese Einstellungen werden beim Deinstallieren von Customizations nicht zurückgesetzt.">
 <!ENTITY removeMenus.label "Adblock Plus aus Browser-Menüs entfernen">
 <!ENTITY toolbarIconDisplay.text "Nur Text">

@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Filtrerinställningar anpassningar">
+<!ENTITY acceptableAdsDisplay.subscription "Filterprenumeration">
+<!ENTITY toolbarAction.none "Inget">
+<!ENTITY toolbarAction.filters "Öppna Filterinställningar">
+<!ENTITY toolbarAction.disable "Inaktivera Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Kryssruta">
+<!ENTITY composerDefault.label "Standardalternativen i filterregelsskaparen">
+<!ENTITY toolbarAction.menu "Öppna menyn">
+<!ENTITY toolbarAction.label "Verktygsfältet vänsterklicks funktion">
+<!ENTITY oneLineSubscriptions.label "Prenumerations info på en rad">
+<!ENTITY greenToolbarIcon.label "Speciell ikon för vitlistade sidor">
+<!ENTITY acceptableAdsDisplay.label "&quot;Icke-störande reklam&quot; visning i inställningar">
+<!ENTITY composerDefault.exact "Exakt matchning">
+<!ENTITY removeActionsButton.label "Ta bort Åtgärder-knappar">
+<!ENTITY toolbarAction.blockable "Öppna blockerbara objekt">
+<!ENTITY composerDefault.directory "Hela katalogen">
+<!ENTITY toolbarIconDisplay.label "Verktygsfältets verktygs display">
+<!ENTITY hiddenPrefs.description "Dessa alternativ kommer inte att återställas om Customizations avinstalleras.">
+<!ENTITY removeMenus.label "Ta bort Adblock Plus från webbläsarmenyer">
+<!ENTITY toolbarIconDisplay.text "Endast Text">
+<!ENTITY composerDefault.custom "Eget mönster">
+<!ENTITY misc.label "Övriga anpassningar">
+<!ENTITY verticalPreferencesLayout.label "Vertikal layout">
+<!ENTITY toolbarIconDisplay.default "Standard">
+<!ENTITY toolbarIconDisplay.image "Endast Ikonen">
+<!ENTITY hiddenPrefs.label "Dolda Adblock Plus alternativ">
+<!ENTITY composerDefault.site "Hela webbplatsen">
+<!ENTITY toolbarIconDisplay.both "Ikon och Text">

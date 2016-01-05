@@ -6,7 +6,7 @@
 <!ENTITY acceptableAdsDisplay.checkbox "Žymimasis langelis">
 <!ENTITY composerDefault.label "Numatytasis pasirinkimas filtrų kūrime">
 <!ENTITY toolbarAction.menu "Atverti meniu">
-<!ENTITY toolbarAction.label "Įrankinės/papildinių juostos elemento kairio spragtelėjimo veiksmas">
+<!ENTITY toolbarAction.label "Įrankių juostos elemento paspaudimas kairiuoju mygtuku">
 <!ENTITY oneLineSubscriptions.label "Prenumeratų informacija vienoje eilutėje">
 <!ENTITY greenToolbarIcon.label "Baltojo sąrašo puslapių piktograma">
 <!ENTITY acceptableAdsDisplay.label "„Neįkyrių reklamų“ rodymas nustatymuose">
@@ -14,7 +14,7 @@
 <!ENTITY removeActionsButton.label "Pašalinti veiksmų mygtukus">
 <!ENTITY toolbarAction.blockable "Atverti blokuojamus elementus">
 <!ENTITY composerDefault.directory "Visas aplankas">
-<!ENTITY toolbarIconDisplay.label "Įrankinės/papildinių juostos elementų rodymas">
+<!ENTITY toolbarIconDisplay.label "Įrankių juostos elemento rodymas">
 <!ENTITY hiddenPrefs.description "Šios parinktys, pašalinus „Customizations“ nebus atstatytos.">
 <!ENTITY removeMenus.label "Pašalinti Adblock Plus iš naršyklės meniu">
 <!ENTITY toolbarIconDisplay.text "Tik tekstas">

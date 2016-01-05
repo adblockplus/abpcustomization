@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Филтър предпочитания персонализации">
+<!ENTITY acceptableAdsDisplay.subscription "Абонаменти за Филтър">
+<!ENTITY toolbarAction.none "Нищо">
+<!ENTITY toolbarAction.filters "Отвори настройките за филтър">
+<!ENTITY toolbarAction.disable "Изключи Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Квадратче с отметка">
+<!ENTITY composerDefault.label "Изборът по подразбиране в филтър композитор">
+<!ENTITY toolbarAction.menu "Отвори менюто">
+<!ENTITY toolbarAction.label "Лента с инструменти действие с ляв клик на мишката">
+<!ENTITY oneLineSubscriptions.label "Абонаментна информация на един ред">
+<!ENTITY greenToolbarIcon.label "Специална икона за whitelisted страници">
+<!ENTITY acceptableAdsDisplay.label "&quot;Ненатрапчиви реклами&quot; покажи в предпочитания">
+<!ENTITY composerDefault.exact "Точно съвпадение">
+<!ENTITY removeActionsButton.label "Премахване на бутоните за действия">
+<!ENTITY toolbarAction.blockable "Отвори блокирани предмети">
+<!ENTITY composerDefault.directory "Цялата директория">
+<!ENTITY toolbarIconDisplay.label "Лента с инструменти показване на елементи">
+<!ENTITY hiddenPrefs.description "Тези опции няма да се махнат дори  ако персонализациите се деинсталират.">
+<!ENTITY removeMenus.label "Премахнете Adblock Plus от браузър менюто">
+<!ENTITY toolbarIconDisplay.text "Само Текст">
+<!ENTITY composerDefault.custom "Потребителски настройки">
+<!ENTITY misc.label "Други персонализации">
+<!ENTITY verticalPreferencesLayout.label "Вертикално оформление">
+<!ENTITY toolbarIconDisplay.default "По подразбиране">
+<!ENTITY toolbarIconDisplay.image "Икона само">
+<!ENTITY hiddenPrefs.label "Скрити Adblock Plus опции">
+<!ENTITY composerDefault.site "Целия сайт">
+<!ENTITY toolbarIconDisplay.both "Икона и Текст">

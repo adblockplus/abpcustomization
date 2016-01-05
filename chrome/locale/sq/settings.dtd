@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Përshtatje për filtrat">
+<!ENTITY acceptableAdsDisplay.subscription "Filter abonim">
+<!ENTITY toolbarAction.none "Asnjë">
+<!ENTITY toolbarAction.filters "Hap parametrat e filtrave">
+<!ENTITY toolbarAction.disable "Disable Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Checkbox">
+<!ENTITY composerDefault.label "Zgjedhja e albumit në Filter Composer">
+<!ENTITY toolbarAction.menu "Menyja e hapjes">
+<!ENTITY toolbarAction.label "Shiriti i veglave - akcioni majtas-klikim">
+<!ENTITY oneLineSubscriptions.label "Paraqitja vertikale">
+<!ENTITY greenToolbarIcon.label "Icon special për faqet whitelisted">
+<!ENTITY acceptableAdsDisplay.label "\ &quot;reklama jo-ndërhyrëse \&quot; shfaqje në preferencat">
+<!ENTITY composerDefault.exact "Ndeshje e saktë">
+<!ENTITY removeActionsButton.label "Hiq butonat Actions">
+<!ENTITY toolbarAction.blockable "Hap elementet bllokuese">
+<!ENTITY composerDefault.directory "Gjithe direktorine">
+<!ENTITY toolbarIconDisplay.label "Shfaq artikullin e shiritit të veglave (toolbarit)">
+<!ENTITY hiddenPrefs.description "Këto opsione nuk do të rishkruhen në qoftë se Përshtatja është e fshirë.">
+<!ENTITY removeMenus.label "Hiq Adblock Plus nga menutë e shfletuesit">
+<!ENTITY toolbarIconDisplay.text "Vetëm tekst">
+<!ENTITY composerDefault.custom "Model Custom">
+<!ENTITY misc.label "Misc Përshtatje">
+<!ENTITY verticalPreferencesLayout.label "Paraqitja vertikale">
+<!ENTITY toolbarIconDisplay.default "E Parazgjedhur">
+<!ENTITY toolbarIconDisplay.image "Vetëm ikonë">
+<!ENTITY hiddenPrefs.label "Hidden opsione Adblock Plus">
+<!ENTITY composerDefault.site "Gjithë faqe">
+<!ENTITY toolbarIconDisplay.both "Ikonë dhe tekst">

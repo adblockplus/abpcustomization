@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "필터 설정 맞춤화">
+<!ENTITY acceptableAdsDisplay.subscription "구독 필터">
+<!ENTITY toolbarAction.none "없음">
+<!ENTITY toolbarAction.filters "필터 설정 열기">
+<!ENTITY toolbarAction.disable "애드블록 플러스 사용 중지">
+<!ENTITY acceptableAdsDisplay.checkbox "체크상자">
+<!ENTITY composerDefault.label "필터 작성기의 기본 지정 유형">
+<!ENTITY toolbarAction.menu "메뉴 열기">
+<!ENTITY toolbarAction.label "도구 모음 항목에 클릭하였을때 동작">
+<!ENTITY oneLineSubscriptions.label "구독 필터의 단일 항목 표시">
+<!ENTITY greenToolbarIcon.label "허용된 페이지에 대한 특별한 아이콘 표시">
+<!ENTITY acceptableAdsDisplay.label "필터 설정에 &quot;비침입형 광고&quot; 표시">
+<!ENTITY composerDefault.exact "정확히 일치">
+<!ENTITY removeActionsButton.label "동작 버튼 제거">
+<!ENTITY toolbarAction.blockable "차단 가능 목록 열기">
+<!ENTITY composerDefault.directory "전체 경로">
+<!ENTITY toolbarIconDisplay.label "도구 모음 항목을 표시">
+<!ENTITY hiddenPrefs.description "Customizations가 제거되면 이 옵션들은 초기화되지 않습니다.">
+<!ENTITY removeMenus.label "브라우저 메뉴에서 애드블록 플러스 항목 제거">
+<!ENTITY toolbarIconDisplay.text "텍스트만 표시">
+<!ENTITY composerDefault.custom "사용자 지정 유형">
+<!ENTITY misc.label "기타 맞춤화">
+<!ENTITY verticalPreferencesLayout.label "수직 레이아웃">
+<!ENTITY toolbarIconDisplay.default "기본값">
+<!ENTITY toolbarIconDisplay.image "아이콘만 표시">
+<!ENTITY hiddenPrefs.label "숨겨진 애드블록 플러스 옵션">
+<!ENTITY composerDefault.site "전체 사이트">
+<!ENTITY toolbarIconDisplay.both "아이콘과 텍스트 표시">

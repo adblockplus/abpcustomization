@@ -1,0 +1,17 @@
+<!ENTITY misc.label "Басқа жөнге салдар">
+<!ENTITY toolbarAction.none "ештеме">
+<!ENTITY verticalPreferencesLayout.label "Жазылудан фильтрлер">
+<!ENTITY toolbarIconDisplay.default "үстірт">
+<!ENTITY composerDefault.site "Барлық сайтті">
+<!ENTITY toolbarIconDisplay.both "сүрет және текст">
+<!ENTITY filterPreferences.label "Фильтр ұнаты жөнге салу">
+<!ENTITY toolbarIconDisplay.image "Тек қана сүрет">
+<!ENTITY oneLineSubscriptions.label "Бір жолда жазылу информациясы">
+<!ENTITY composerDefault.exact "Нақты кездесу">
+<!ENTITY removeActionsButton.label "Қимыл желі алып қою">
+<!ENTITY composerDefault.custom "өзің үлгісі">
+<!ENTITY composerDefault.directory "барлық тізбесі">
+<!ENTITY acceptableAdsDisplay.checkbox "жалауша">
+<!ENTITY toolbarAction.disable "Adblock Plus -тың ажырату">
+<!ENTITY toolbarIconDisplay.text "Тек қана текст">
+<!ENTITY toolbarAction.menu "мәзір ашу">

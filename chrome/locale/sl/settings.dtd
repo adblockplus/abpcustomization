@@ -1,0 +1,21 @@
+<!ENTITY toolbarAction.filters "Odpri nastavitve filtra">
+<!ENTITY misc.label "Razne prilagoditve">
+<!ENTITY toolbarAction.none "Nič">
+<!ENTITY verticalPreferencesLayout.label "Navpična postavitev">
+<!ENTITY acceptableAdsDisplay.checkbox "Potrditveno polje">
+<!ENTITY toolbarIconDisplay.default "Privzeto">
+<!ENTITY toolbarIconDisplay.both "Ikona in besedilo">
+<!ENTITY filterPreferences.label "Prilagoditve za Nastavitve filtrov">
+<!ENTITY acceptableAdsDisplay.subscription "Naročnine na filtre">
+<!ENTITY toolbarIconDisplay.image "Samo ikona">
+<!ENTITY removeMenus.label "Odstrani Adblock Plus iz menija brskalnika">
+<!ENTITY hiddenPrefs.description "Te možnosti se ne bodo ponastavile, če boste odstranili Prilagoditve.">
+<!ENTITY oneLineSubscriptions.label "Informacije o naročnini v eni vrstici">
+<!ENTITY hiddenPrefs.label "Skrite možnosti Adblock Plus">
+<!ENTITY removeActionsButton.label "Odstrani gumbe Dejanja">
+<!ENTITY toolbarAction.blockable "Odpri elemente blokad">
+<!ENTITY acceptableAdsDisplay.label "Prikaz nevsiljivih oglasov v naslavitvah">
+<!ENTITY toolbarAction.disable "Onemogoči Adblock Plus">
+<!ENTITY greenToolbarIcon.label "Posebna ikona za dovoljene strani">
+<!ENTITY toolbarIconDisplay.text "Samo besedilo">
+<!ENTITY toolbarAction.menu "Odpri meni">

@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Перелік фільтрів користувача">
+<!ENTITY acceptableAdsDisplay.subscription "Підпис фільтрами">
+<!ENTITY toolbarAction.none "Жоден">
+<!ENTITY toolbarAction.filters "Відкрити параметри фільтру">
+<!ENTITY toolbarAction.disable "Виключити Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Флажок">
+<!ENTITY composerDefault.label "Вибір за замовчуванням у фільтрі Композитор">
+<!ENTITY toolbarAction.menu "Ввімкнути меню">
+<!ENTITY toolbarAction.label "Щоб активувати панель інструментів клацніть лівою клавішею миші">
+<!ENTITY oneLineSubscriptions.label "Відомості підписки в один рядок">
+<!ENTITY greenToolbarIcon.label "Позначати довірені сайти, спеціальним значком">
+<!ENTITY acceptableAdsDisplay.label "Відобразити пункту &quot;ненав'язлива реклама&quot; у параметрах">
+<!ENTITY composerDefault.exact "Точний відповідність">
+<!ENTITY removeActionsButton.label "Приховати кнопку керування">
+<!ENTITY toolbarAction.blockable "Відкрити блоковані елементи">
+<!ENTITY composerDefault.directory "Цілий каталог">
+<!ENTITY toolbarIconDisplay.label "Відобразити панель керування">
+<!ENTITY hiddenPrefs.description "Ці налаштування не можуть скинутися після видалення доповнень.">
+<!ENTITY removeMenus.label "Видалити Adblock Plus з меню браузера">
+<!ENTITY toolbarIconDisplay.text "Лише текст">
+<!ENTITY composerDefault.custom "Змінений шаблон">
+<!ENTITY misc.label "Різне налаштування">
+<!ENTITY verticalPreferencesLayout.label "Вертикальне розташування">
+<!ENTITY toolbarIconDisplay.default "За замовчуванням">
+<!ENTITY toolbarIconDisplay.image "Тільки значок">
+<!ENTITY hiddenPrefs.label "Приховані параметри Adblock Plus">
+<!ENTITY composerDefault.site "Цілий сайт">
+<!ENTITY toolbarIconDisplay.both "Значок і текст">

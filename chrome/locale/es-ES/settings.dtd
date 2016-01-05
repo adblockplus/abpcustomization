@@ -6,7 +6,7 @@
 <!ENTITY acceptableAdsDisplay.checkbox "Casilla de verificación">
 <!ENTITY composerDefault.label "Selección predeterminada en Creador de filtros">
 <!ENTITY toolbarAction.menu "Abrir menú">
-<!ENTITY toolbarAction.label "Acción con clic izquierdo sobre elemento de la barra de herramientas/complementos">
+<!ENTITY toolbarAction.label "Acción de botón izquierdo sobre el elemento de la barra de herramientas">
 <!ENTITY oneLineSubscriptions.label "Información de suscripción en una sola línea">
 <!ENTITY greenToolbarIcon.label "Icono especial para páginas en lista blanca">
 <!ENTITY acceptableAdsDisplay.label "Mostrar &quot;Permitir publicidad no intrusiva&quot; en Preferencias">
@@ -14,7 +14,7 @@
 <!ENTITY removeActionsButton.label "Eliminar botones de Acciones">
 <!ENTITY toolbarAction.blockable "Abrir Elementos bloqueables">
 <!ENTITY composerDefault.directory "Todo el directorio">
-<!ENTITY toolbarIconDisplay.label "Mostrar elemento de la barra de herramientas/complementos">
+<!ENTITY toolbarIconDisplay.label "Mostrar elemento de la barra de herramientas">
 <!ENTITY hiddenPrefs.description "Estas opciones no se restablecerán si se desinstala Customizations.">
 <!ENTITY removeMenus.label "Eliminar Adblock Plus de los menús del navegador">
 <!ENTITY toolbarIconDisplay.text "Sólo texto">

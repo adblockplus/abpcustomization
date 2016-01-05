@@ -6,7 +6,7 @@
 <!ENTITY acceptableAdsDisplay.checkbox "Флажок">
 <!ENTITY composerDefault.label "Выбор по умолчанию при добавлении фильтра">
 <!ENTITY toolbarAction.menu "Открыть меню">
-<!ENTITY toolbarAction.label "Действие при щелчке по элементу панели инструментов/дополнений">
+<!ENTITY toolbarAction.label "Действие при щелчке по элементу панели инструментов">
 <!ENTITY oneLineSubscriptions.label "Информация о подписке одной строкой">
 <!ENTITY greenToolbarIcon.label "Зеленый значок, если Adblock Plus отключен на странице">
 <!ENTITY acceptableAdsDisplay.label "Отображение элемента «ненавязчивая реклама» в настройках">
@@ -14,7 +14,7 @@
 <!ENTITY removeActionsButton.label "Убрать кнопки «Действия»">
 <!ENTITY toolbarAction.blockable "Список элементов страницы">
 <!ENTITY composerDefault.directory "Весь каталог">
-<!ENTITY toolbarIconDisplay.label "Отображение элемента панели инструментов/дополнений">
+<!ENTITY toolbarIconDisplay.label "Отображение элемента панели инструментов">
 <!ENTITY hiddenPrefs.description "Эти настойки останутся даже после удаления Customizations.">
 <!ENTITY removeMenus.label "Убрать Adblock Plus из всех меню браузера">
 <!ENTITY toolbarIconDisplay.text "Только текст">

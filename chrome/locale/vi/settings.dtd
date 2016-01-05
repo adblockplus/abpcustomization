@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Tùy biến tùy chỉnh bộ lọc">
+<!ENTITY acceptableAdsDisplay.subscription "Bộ lọc trọn gói">
+<!ENTITY toolbarAction.none "Không có">
+<!ENTITY toolbarAction.filters "Mở Tùy chỉnh Bộ lọc">
+<!ENTITY toolbarAction.disable "Vô hiệu Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Hộp kiểm">
+<!ENTITY composerDefault.label "Lựa chọn mặc định trong Trình soạn bộ lọc">
+<!ENTITY toolbarAction.menu "Mở trình đơn">
+<!ENTITY toolbarAction.label "Mục bên trái của thanh công cụ">
+<!ENTITY oneLineSubscriptions.label "Thông tin trọn gói trên một dòng">
+<!ENTITY greenToolbarIcon.label "Biểu tượng đặc biệt cho trang trắng">
+<!ENTITY acceptableAdsDisplay.label "&quot;Quảng cáo không làm phiền&quot; hiển thị trong tùy chỉnh">
+<!ENTITY composerDefault.exact "Giống chính xác">
+<!ENTITY removeActionsButton.label "Loại bỏ nút Hành động">
+<!ENTITY toolbarAction.blockable "Mở mục có thể chặn">
+<!ENTITY composerDefault.directory "Toàn bộ thư mục">
+<!ENTITY toolbarIconDisplay.label "Mục hiển thị trên thanh công cụ">
+<!ENTITY hiddenPrefs.description "Những tùy chọn này sẽ không được cài lại nếu Trình tùy biến bị gỡ bỏ.">
+<!ENTITY removeMenus.label "Loại bỏ Adblock Plus khỏi trình đơn của trình duyệt">
+<!ENTITY toolbarIconDisplay.text "Chỉ văn bản">
+<!ENTITY composerDefault.custom "Mẫu tùy biến">
+<!ENTITY misc.label "Tùy biến linh tinh">
+<!ENTITY verticalPreferencesLayout.label "Bố trí dọc">
+<!ENTITY toolbarIconDisplay.default "Mặc định">
+<!ENTITY toolbarIconDisplay.image "Chỉ biểu tượng">
+<!ENTITY hiddenPrefs.label "Ẩn tùy chọn Adblock Plus">
+<!ENTITY composerDefault.site "Toàn bộ trang">
+<!ENTITY toolbarIconDisplay.both "Biểu tượng và văn bản">

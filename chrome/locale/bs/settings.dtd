@@ -1,0 +1,26 @@
+<!ENTITY filterPreferences.label "Prilagođavanja za postavke filtera">
+<!ENTITY toolbarAction.none "Nepoznato">
+<!ENTITY hiddenPrefs.description "Ove postavke neće biti poništene nakon što su Podešavanja uklonjena.">
+<!ENTITY toolbarAction.filters "Otvori postavke filtera">
+<!ENTITY toolbarAction.disable "Onemogući Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Polje za potvrdu">
+<!ENTITY toolbarAction.menu "Otvori meni">
+<!ENTITY acceptableAdsDisplay.subscription "Prijava na filter">
+<!ENTITY acceptableAdsDisplay.label "Opcija prikazivanja &quot;Nenapadni oglasi&quot; u postavkama">
+<!ENTITY greenToolbarIcon.label "Posebna ikona za dozvoljene stranice">
+<!ENTITY oneLineSubscriptions.label "Podaci o prijavi u jednom redu">
+<!ENTITY composerDefault.exact "Tačno podudaranje">
+<!ENTITY removeActionsButton.label "Ukloni dugmad &quot;Radnje&quot;">
+<!ENTITY toolbarAction.blockable "Otvori stavke za blokiranje">
+<!ENTITY composerDefault.directory "Cijeli direktorijum">
+<!ENTITY composerDefault.label "Podrazumijevani odabir u Kreatoru Filtera">
+<!ENTITY removeMenus.label "Ukloni Adblock Plus iz menija veb pregledača">
+<!ENTITY toolbarIconDisplay.text "Samo tekst">
+<!ENTITY composerDefault.custom "Prilagođeni obrazac">
+<!ENTITY misc.label "Razna prilagođavanja">
+<!ENTITY verticalPreferencesLayout.label "Uspravni raspored">
+<!ENTITY toolbarIconDisplay.default "Podrazumijevano">
+<!ENTITY toolbarIconDisplay.image "Samo ikona">
+<!ENTITY hiddenPrefs.label "Sakrivene opcije u Adblock-u Plus">
+<!ENTITY composerDefault.site "Cijela veb stranica">
+<!ENTITY toolbarIconDisplay.both "Ikona i Tekst">

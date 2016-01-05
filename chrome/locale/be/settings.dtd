@@ -1,0 +1,10 @@
+<!ENTITY toolbarAction.menu "Адкрыць меню">
+<!ENTITY toolbarIconDisplay.default "Стандарт">
+<!ENTITY toolbarIconDisplay.text "Толькі тэкст">
+<!ENTITY toolbarAction.none "Няма">
+<!ENTITY toolbarAction.label "Дзеянне пры націсканні на панель левай кнопкай мышы">
+<!ENTITY toolbarIconDisplay.image "Толькі значкі">
+<!ENTITY toolbarAction.disable "Адключыць Adblock Plus">
+<!ENTITY acceptableAdsDisplay.subscription "Падпіска на фільтры">
+<!ENTITY acceptableAdsDisplay.checkbox "Сцяжок">
+<!ENTITY toolbarIconDisplay.both "Значкі і тэкст">

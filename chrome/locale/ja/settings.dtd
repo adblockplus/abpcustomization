@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "フィルタ設定のカスタマイズ">
+<!ENTITY acceptableAdsDisplay.subscription "購読しているフィルタの１つとして表示">
+<!ENTITY toolbarAction.none "何もしない">
+<!ENTITY toolbarAction.filters "フィルタ設定を開く">
+<!ENTITY toolbarAction.disable "Adblock plus を無効化">
+<!ENTITY acceptableAdsDisplay.checkbox "チェックボックス">
+<!ENTITY composerDefault.label "フィルタ作成時のデフォルト選択">
+<!ENTITY toolbarAction.menu "メニューを開く">
+<!ENTITY toolbarAction.label "ツールバー上の表示を左クリックしたときの動作">
+<!ENTITY oneLineSubscriptions.label "購読しているフィルタ情報を一行で表示">
+<!ENTITY greenToolbarIcon.label "ホワイトリストに登録されたページでは特別なアイコンを表示">
+<!ENTITY acceptableAdsDisplay.label "「控えめな広告」設定の表示方法">
+<!ENTITY composerDefault.exact "完全一致">
+<!ENTITY removeActionsButton.label "アクションボタンを表示しない">
+<!ENTITY toolbarAction.blockable "ブロック可能項目一覧を開く">
+<!ENTITY composerDefault.directory "ディレクトリ全体">
+<!ENTITY toolbarIconDisplay.label "ツールバー上の表示">
+<!ENTITY hiddenPrefs.description "このアドオンを削除しても以下のオプションはリセットされません。">
+<!ENTITY removeMenus.label "ブラウザのメニューに Adblock plus を追加しない">
+<!ENTITY toolbarIconDisplay.text "テキストのみ">
+<!ENTITY composerDefault.custom "自作パターン">
+<!ENTITY misc.label "その他のカスタマイズ">
+<!ENTITY verticalPreferencesLayout.label "縦表示">
+<!ENTITY toolbarIconDisplay.default "デフォルト">
+<!ENTITY toolbarIconDisplay.image "アイコンのみ">
+<!ENTITY hiddenPrefs.label "Adblock Plus の隠しオプション">
+<!ENTITY composerDefault.site "サイト全体">
+<!ENTITY toolbarIconDisplay.both "アイコン と テキスト">

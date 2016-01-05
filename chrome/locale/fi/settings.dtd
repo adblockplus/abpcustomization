@@ -6,7 +6,7 @@
 <!ENTITY acceptableAdsDisplay.checkbox "Valintaruutu">
 <!ENTITY composerDefault.label "Oletusvalinta luotaessa uutta suodatinta">
 <!ENTITY toolbarAction.menu "Avaa valikko">
-<!ENTITY toolbarAction.label "Työkalu-/lisäosapalkin painikkeiden hiiren vasemman napsautuksen toiminto">
+<!ENTITY toolbarAction.label "työkalurivin painikkeen toiminnan / toiminnon selite">
 <!ENTITY oneLineSubscriptions.label "Tilaustiedot yhdellä rivillä">
 <!ENTITY greenToolbarIcon.label "Erikoiskuvake sallituille sivustoille">
 <!ENTITY acceptableAdsDisplay.label "&quot;Ei-häiritsevän mainonnan&quot; -kohdan näyttäminen asetuksissa">
@@ -14,7 +14,7 @@
 <!ENTITY removeActionsButton.label "Poista toimintopainikkeet">
 <!ENTITY toolbarAction.blockable "Avaa estettävät elementit">
 <!ENTITY composerDefault.directory "Koko hakemisto">
-<!ENTITY toolbarIconDisplay.label "Työkalu-/lisäosarivin painikkeiden näyttäminen">
+<!ENTITY toolbarIconDisplay.label "työkalunapin hiiren kohdallaolon selite">
 <!ENTITY hiddenPrefs.description "Nämä asetukset eivät palaudu alkuarvoihin, jos Customizations positetaan.">
 <!ENTITY removeMenus.label "Poista Adblock Plus selaimen valikoista">
 <!ENTITY toolbarIconDisplay.text "Vain teksti">

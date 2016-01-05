@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Prispôsobenie nastavenia filtrov">
+<!ENTITY acceptableAdsDisplay.subscription "Odber filtrov">
+<!ENTITY toolbarAction.none "Nič">
+<!ENTITY toolbarAction.filters "Otvoriť nastavenia filtra">
+<!ENTITY toolbarAction.disable "Vypnúť AdBlock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Začiarkavacie políčko">
+<!ENTITY composerDefault.label "Predvolený výber v nastaveniach filtrov">
+<!ENTITY toolbarAction.menu "Otvorte menu">
+<!ENTITY toolbarAction.label "Zobraziť panel nástrojov na ľavý klik myšou">
+<!ENTITY oneLineSubscriptions.label "Informácie o subskripcii na riadku">
+<!ENTITY greenToolbarIcon.label "Špeciálna ikona pre povolené stránky">
+<!ENTITY acceptableAdsDisplay.label "Zobraziť &quot;Nevtieravé reklamy&quot; v nastaveniach">
+<!ENTITY composerDefault.exact "Presná zhoda">
+<!ENTITY removeActionsButton.label "Odstrániť tlačidlá akcie">
+<!ENTITY toolbarAction.blockable "Otvoriť blokovateľné položky">
+<!ENTITY composerDefault.directory "Celý adresár">
+<!ENTITY toolbarIconDisplay.label "Zobraziť panel nástrojov">
+<!ENTITY hiddenPrefs.description "Tieto možnosti sa nezresetujú ak Prispôsobenia budú odinštalované.">
+<!ENTITY removeMenus.label "Odstrániť Adblock Plus z menu prehliadača">
+<!ENTITY toolbarIconDisplay.text "Iba text">
+<!ENTITY composerDefault.custom "Vlastný vzor">
+<!ENTITY misc.label "Rôzne prispôsobenia">
+<!ENTITY verticalPreferencesLayout.label "Zvislé rozloženie">
+<!ENTITY toolbarIconDisplay.default "Predvolené">
+<!ENTITY toolbarIconDisplay.image "Iba ikonu">
+<!ENTITY hiddenPrefs.label "Skryté možnosti Adblock Plus">
+<!ENTITY composerDefault.site "Celá stránka">
+<!ENTITY toolbarIconDisplay.both "Ikonu a text">

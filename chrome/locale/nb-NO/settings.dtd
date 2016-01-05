@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Tilpasning av filterinstillinger">
+<!ENTITY acceptableAdsDisplay.subscription "Filterabonnement">
+<!ENTITY toolbarAction.none "Ingen">
+<!ENTITY toolbarAction.filters "Åpne filterinnstillinger">
+<!ENTITY toolbarAction.disable "Deaktiver Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Avkrysningsboks">
+<!ENTITY composerDefault.label "Standardvalg for filteroppsett">
+<!ENTITY toolbarAction.menu "Åpne meny">
+<!ENTITY toolbarAction.label "Verktøylinje venstreklikk handling">
+<!ENTITY oneLineSubscriptions.label "Abonnementsinformasjon på én linje">
+<!ENTITY greenToolbarIcon.label "Spesialikon for hvitlistede sider">
+<!ENTITY acceptableAdsDisplay.label "&quot;Ikke-påtrengende annonser&quot; visning i innstillinger">
+<!ENTITY composerDefault.exact "Nøyaktig treff">
+<!ENTITY removeActionsButton.label "Fjern handlingsknapper">
+<!ENTITY toolbarAction.blockable "Åpne blokkerbare elementer">
+<!ENTITY composerDefault.directory "Hele katalogen">
+<!ENTITY toolbarIconDisplay.label "Verktøylinje visning">
+<!ENTITY hiddenPrefs.description "Disse valgene vil ikke bli tilbakestilt dersom Tilpasninger avinstalleres.">
+<!ENTITY removeMenus.label "Fjern Adblock Plus fra nettlesermenyer">
+<!ENTITY toolbarIconDisplay.text "Kun tekst">
+<!ENTITY composerDefault.custom "Egendefinert mønster">
+<!ENTITY misc.label "Diverse tilpasninger">
+<!ENTITY verticalPreferencesLayout.label "Vertikalt oppsett">
+<!ENTITY toolbarIconDisplay.default "Standard">
+<!ENTITY toolbarIconDisplay.image "Kun ikon">
+<!ENTITY hiddenPrefs.label "Skjulte alternativer for Adblock Plus">
+<!ENTITY composerDefault.site "Hele siden">
+<!ENTITY toolbarIconDisplay.both "Ikon og tekst">

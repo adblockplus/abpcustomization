@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Personalitzacions de les preferències de filtre">
+<!ENTITY acceptableAdsDisplay.subscription "Subscripció de filtres">
+<!ENTITY toolbarAction.none "Cap">
+<!ENTITY toolbarAction.filters "Obre les preferències de filtre">
+<!ENTITY toolbarAction.disable "Desactiva Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Casella de selecció">
+<!ENTITY composerDefault.label "Selecció per defecte a l'editor de filtres">
+<!ENTITY toolbarAction.menu "Obre el menú">
+<!ENTITY toolbarAction.label "Clic a la icona de la barra d'eines">
+<!ENTITY oneLineSubscriptions.label "Informació de subscripció en una línia">
+<!ENTITY greenToolbarIcon.label "Icona especial per a pàgines a la llista blanca">
+<!ENTITY acceptableAdsDisplay.label "Visualització de &quot;Anuncis no intrusius&quot; a les preferències">
+<!ENTITY composerDefault.exact "Coincidència exacta">
+<!ENTITY removeActionsButton.label "Treu botons d'accions">
+<!ENTITY toolbarAction.blockable "Obre els elements bloquejables">
+<!ENTITY composerDefault.directory "Tot el directori">
+<!ENTITY toolbarIconDisplay.label "Mostra icona a la barra d'eines">
+<!ENTITY hiddenPrefs.description "Aquestes opcions no es restauraran si el giny de personalització es desinstal·la.">
+<!ENTITY removeMenus.label "Treu Adblock Plus dels menús del navegador">
+<!ENTITY toolbarIconDisplay.text "Només el text">
+<!ENTITY composerDefault.custom "Patró personalitzat">
+<!ENTITY misc.label "Personalitzacions diverses">
+<!ENTITY verticalPreferencesLayout.label "Presentació vertical">
+<!ENTITY toolbarIconDisplay.default "Per defecte">
+<!ENTITY toolbarIconDisplay.image "Només la icona">
+<!ENTITY hiddenPrefs.label "Opcions ocultes d'Adblock Plus">
+<!ENTITY composerDefault.site "Tot el lloc">
+<!ENTITY toolbarIconDisplay.both "Icona i el Text">

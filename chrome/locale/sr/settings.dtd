@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Прилагођавања за поставке филтера">
+<!ENTITY acceptableAdsDisplay.subscription "Пријава на филтер">
+<!ENTITY toolbarAction.none "Ниједна">
+<!ENTITY toolbarAction.filters "Отвори поставке филтера">
+<!ENTITY toolbarAction.disable "Онемогући Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Поље за потврду">
+<!ENTITY composerDefault.label "Подразумевани избор при креирању филтера">
+<!ENTITY toolbarAction.menu "Отвори мени">
+<!ENTITY toolbarAction.label "Радња при клику на ставку траке са алаткама">
+<!ENTITY oneLineSubscriptions.label "Подаци о пријави у једном реду">
+<!ENTITY greenToolbarIcon.label "Посебна икона за дозвољене странице">
+<!ENTITY acceptableAdsDisplay.label "Приказ „Ненападних огласа“ у поставкама">
+<!ENTITY composerDefault.exact "Тачно подударање">
+<!ENTITY removeActionsButton.label "Уклони дугмад „Радње“">
+<!ENTITY toolbarAction.blockable "Отвори ставке које је могуће блокирати">
+<!ENTITY composerDefault.directory "Цела фасцикла">
+<!ENTITY toolbarIconDisplay.label "Приказ ставке на траци са алаткама">
+<!ENTITY hiddenPrefs.description "Ове опције неће бити поништене ако деинсталирате Прилагођавања.">
+<!ENTITY removeMenus.label "Уклони Adblock Plus из менија прегледача">
+<!ENTITY toolbarIconDisplay.text "Само текст">
+<!ENTITY composerDefault.custom "Прилагођени образац">
+<!ENTITY misc.label "Разна прилагођавања">
+<!ENTITY verticalPreferencesLayout.label "Усправни распоред">
+<!ENTITY toolbarIconDisplay.default "Подразумевани">
+<!ENTITY toolbarIconDisplay.image "Само икона">
+<!ENTITY hiddenPrefs.label "Сакривене опције Adblock Plus-а">
+<!ENTITY composerDefault.site "Цео сајт">
+<!ENTITY toolbarIconDisplay.both "Икона и текст">

@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Úpravy nastavení filtru">
+<!ENTITY acceptableAdsDisplay.subscription "Odběr sad filtrů">
+<!ENTITY toolbarAction.none "Žádný">
+<!ENTITY toolbarAction.filters "Otevřít předvolby filtrů">
+<!ENTITY toolbarAction.disable "Zakázat Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Zaškrtávací políčko">
+<!ENTITY composerDefault.label "Výchozí výběr v Sestavovači filtrů">
+<!ENTITY toolbarAction.menu "Otevřít menu">
+<!ENTITY toolbarAction.label "Akce klepnutí levým tlačítkem myši položky panelu nástrojů">
+<!ENTITY oneLineSubscriptions.label "Informace o odběru na jednom řádku">
+<!ENTITY greenToolbarIcon.label "Speciální ikona pro povolené stránky">
+<!ENTITY acceptableAdsDisplay.label "Zobrazení &quot;Nevtíravých reklam&quot; v předvolbách">
+<!ENTITY composerDefault.exact "Přesná shoda">
+<!ENTITY removeActionsButton.label "Odebrat tlačítka akcí">
+<!ENTITY toolbarAction.blockable "Zobrazit blokovatelné objekty">
+<!ENTITY composerDefault.directory "Celý adresář">
+<!ENTITY toolbarIconDisplay.label "Zobrazení položky panelu nástrojů">
+<!ENTITY hiddenPrefs.description "Tyto možnosti nebudou vynulovány když je Vlastní nastavení odinstalováno.">
+<!ENTITY removeMenus.label "Odstranit Adblock Plus z menu prohlížeče">
+<!ENTITY toolbarIconDisplay.text "Pouze text">
+<!ENTITY composerDefault.custom "Vlastní šablona">
+<!ENTITY misc.label "Různé úpravy">
+<!ENTITY verticalPreferencesLayout.label "Svislé rozložení">
+<!ENTITY toolbarIconDisplay.default "Výchozí">
+<!ENTITY toolbarIconDisplay.image "Pouze ikona">
+<!ENTITY hiddenPrefs.label "Skryté možnosti Adblock Plus">
+<!ENTITY composerDefault.site "Celá stránka">
+<!ENTITY toolbarIconDisplay.both "Ikona a Text">

@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Personnalisations pour les Préférences de filtre">
+<!ENTITY acceptableAdsDisplay.subscription "Abonnement à une liste de filtre">
+<!ENTITY toolbarAction.none "Aucune">
+<!ENTITY toolbarAction.filters "Ouvrir les Préférences de filtre">
+<!ENTITY toolbarAction.disable "Désactiver Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Case à cocher">
+<!ENTITY composerDefault.label "Sélection par défaut dans la fenêtre de création de filtre">
+<!ENTITY toolbarAction.menu "Ouvrir le menu">
+<!ENTITY toolbarAction.label "Action du clic gauche sur le bouton de barre d'outils">
+<!ENTITY oneLineSubscriptions.label "Informations sur l'abonnement en une ligne">
+<!ENTITY greenToolbarIcon.label "Icône spéciale pour les pages où Adblock Plus est désactivé">
+<!ENTITY acceptableAdsDisplay.label "Affichage des &quot;publicités non-intrusives&quot; dans les préférences">
+<!ENTITY composerDefault.exact "Correspondance exacte">
+<!ENTITY removeActionsButton.label "Retirer les boutons &quot;Actions&quot;">
+<!ENTITY toolbarAction.blockable "Ouvrir la liste des éléments filtrables">
+<!ENTITY composerDefault.directory "Répertoire entier">
+<!ENTITY toolbarIconDisplay.label "Affichage du bouton sur une barre d'outils">
+<!ENTITY hiddenPrefs.description "Ces options ne seront pas réinitialisées dans les préférences d'Adblock Plus si l’extension &quot;Customizations&quot; est désinstallée.">
+<!ENTITY removeMenus.label "Retirer Adblock Plus des menus du navigateur">
+<!ENTITY toolbarIconDisplay.text "Texte seulement">
+<!ENTITY composerDefault.custom "Motif personnalisé">
+<!ENTITY misc.label "Personnalisations diverses">
+<!ENTITY verticalPreferencesLayout.label "Disposition verticale">
+<!ENTITY toolbarIconDisplay.default "Par défaut">
+<!ENTITY toolbarIconDisplay.image "Icône seulement">
+<!ENTITY hiddenPrefs.label "Options cachées d'Adblock Plus">
+<!ENTITY composerDefault.site "Site entier">
+<!ENTITY toolbarIconDisplay.both "Icône et texte">

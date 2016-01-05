@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Filtre Tercih Ayarları">
+<!ENTITY acceptableAdsDisplay.subscription "Aboneliği filtrele">
+<!ENTITY toolbarAction.none "Hiçbiri">
+<!ENTITY toolbarAction.filters "Filtre Ayarlarını aç">
+<!ENTITY toolbarAction.disable "Adblock Plus'ı devre dışı bırak">
+<!ENTITY acceptableAdsDisplay.checkbox "Onay kutusu ile">
+<!ENTITY composerDefault.label "Filtre Oluşturucudaki varsayılan seçim">
+<!ENTITY toolbarAction.menu "Menüyü aç">
+<!ENTITY toolbarAction.label "Araç çubuğu öğesine sol tıklama eylemi">
+<!ENTITY oneLineSubscriptions.label "Tek satırlık abonelik bilgisi">
+<!ENTITY greenToolbarIcon.label "Beyaz listedeki sayfalar için özel simge">
+<!ENTITY acceptableAdsDisplay.label "&quot;Davetsiz olmayan reklamlar&quot;ın gösterimi">
+<!ENTITY composerDefault.exact "Tam eşleşme">
+<!ENTITY removeActionsButton.label "Eylem düğmelerini kaldır">
+<!ENTITY toolbarAction.blockable "Engellenmiş öğeleri aç">
+<!ENTITY composerDefault.directory "Tüm dizin">
+<!ENTITY toolbarIconDisplay.label "Araç çubuğunda öğe görüntüle">
+<!ENTITY hiddenPrefs.description "Özelleştirmeleri kaldırıldıktan sonra bile bu seçenekleri sıfırlayamayacaksınız.">
+<!ENTITY removeMenus.label "Tarayıcı menülerinden Adblock Plus'ı kaldır">
+<!ENTITY toolbarIconDisplay.text "Yalnızca metin">
+<!ENTITY composerDefault.custom "Özel şablon">
+<!ENTITY misc.label "Çeşitli özelleştirmeler">
+<!ENTITY verticalPreferencesLayout.label "Dikey düzen">
+<!ENTITY toolbarIconDisplay.default "Varsayılan">
+<!ENTITY toolbarIconDisplay.image "Yalnızca simge">
+<!ENTITY hiddenPrefs.label "Gizli Adblock Plus seçenekleri">
+<!ENTITY composerDefault.site "Tüm site">
+<!ENTITY toolbarIconDisplay.both "Simge ve metin">

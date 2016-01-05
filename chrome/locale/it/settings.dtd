@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Modifiche per Preferenze Filtri">
+<!ENTITY acceptableAdsDisplay.subscription "Mostra solo la sottoscrizione di filtri">
+<!ENTITY toolbarAction.none "Nessuna">
+<!ENTITY toolbarAction.filters "Apri la finestra di gestione dei filtri">
+<!ENTITY toolbarAction.disable "Disattiva Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Mostra la casella di spunta">
+<!ENTITY composerDefault.label "Selezione predefinita nella composizione di filtri">
+<!ENTITY toolbarAction.menu "Apri il menu">
+<!ENTITY toolbarAction.label "Azione per clic sinistro su elemento della barra degli strumenti">
+<!ENTITY oneLineSubscriptions.label "Mostra le informazioni sulle sottoscrizioni su una riga">
+<!ENTITY greenToolbarIcon.label "Icone speciali per le pagine permesse">
+<!ENTITY acceptableAdsDisplay.label "Visualizzazione di &quot;Permetti alcune pubblicità non inopportune&quot;">
+<!ENTITY composerDefault.exact "Corrispondenza esatta">
+<!ENTITY removeActionsButton.label "Elimina il pulsante Azioni">
+<!ENTITY toolbarAction.blockable "Apri la finestra degli elementi bloccabili">
+<!ENTITY composerDefault.directory "Tutta la cartella">
+<!ENTITY toolbarIconDisplay.label "Mostra elemento della barra degli strumenti">
+<!ENTITY hiddenPrefs.description "Queste opzioni non verranno ripristinate se Customizations viene disinstallato.">
+<!ENTITY removeMenus.label "Togli la voce di Adblock Plus dal menu del browser">
+<!ENTITY toolbarIconDisplay.text "Solo testo">
+<!ENTITY composerDefault.custom "Modello personalizzato">
+<!ENTITY misc.label "Altre modifiche">
+<!ENTITY verticalPreferencesLayout.label "Layout verticale">
+<!ENTITY toolbarIconDisplay.default "Predefinita">
+<!ENTITY toolbarIconDisplay.image "Solo icone">
+<!ENTITY hiddenPrefs.label "Opzioni nascoste di Adblock Plus">
+<!ENTITY composerDefault.site "Tutto il sito">
+<!ENTITY toolbarIconDisplay.both "Icone e testo">

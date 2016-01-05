@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "กำหนดตัวกรองการตั้งค่า">
+<!ENTITY acceptableAdsDisplay.subscription "การสมัครรับตัวกรอง">
+<!ENTITY toolbarAction.none "ไม่มี">
+<!ENTITY toolbarAction.filters "เปิดดูการตั้งค่าตัวกรอง">
+<!ENTITY toolbarAction.disable "ปิด Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "กล่องเลือก">
+<!ENTITY composerDefault.label "ตัวเลือกเริ่มต้นในผู้สร้างตัวกรอง">
+<!ENTITY toolbarAction.menu "เปิดเมนู">
+<!ENTITY toolbarAction.label "การกระทำเมื่อคลิกซ้ายที่แถบเครื่องมือ">
+<!ENTITY oneLineSubscriptions.label "ข้อมูลการสมัครแบบบรรทัดเดียว">
+<!ENTITY greenToolbarIcon.label "ไอคอนพิเศษสำหรับหน้ารายการเชื่อถือได้">
+<!ENTITY acceptableAdsDisplay.label "แสดง &quot;โฆษณาที่ไม่รบกวน&quot; ในการตั้งค่า">
+<!ENTITY composerDefault.exact "ตรงตามที่ระบุ">
+<!ENTITY removeActionsButton.label "ลบปุ่มปฏิบัติการ">
+<!ENTITY toolbarAction.blockable "เปิดดูสิ่งที่บล็อคได้">
+<!ENTITY composerDefault.directory "ไดเร็กทอรีโดยรวม">
+<!ENTITY toolbarIconDisplay.label "แสดงในแถบเครื่องมือ">
+<!ENTITY hiddenPrefs.description "ตัวเลือกเหล่านี้จะถูกตั้งค่าใหม่ถ้าการตั้งค่าถูกถอดถอน">
+<!ENTITY removeMenus.label "ลบ Adblock Plus จากเมนูเบราเซอร์">
+<!ENTITY toolbarIconDisplay.text "ข้อความเท่านั้น">
+<!ENTITY composerDefault.custom "กำหนดรูปแบบเอง">
+<!ENTITY misc.label "กำหนดทั่วไป">
+<!ENTITY verticalPreferencesLayout.label "ลักษณะแนวตั้ง">
+<!ENTITY toolbarIconDisplay.default "ค่าเริ่มต้น">
+<!ENTITY toolbarIconDisplay.image "ไอคอนเท่านั้น">
+<!ENTITY hiddenPrefs.label "ซ่อนตัวเลือก Adblock Plus">
+<!ENTITY composerDefault.site "ไซต์โดยรวม">
+<!ENTITY toolbarIconDisplay.both "ไอคอนและข้อความ">

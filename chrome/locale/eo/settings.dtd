@@ -1,21 +1,19 @@
 <!ENTITY filterPreferences.label "Adaptoj de filtrilaj agordoj">
-<!ENTITY acceptableAdsDisplay.subscription "Filtrilabono">
 <!ENTITY toolbarAction.none "Neniu">
+<!ENTITY hiddenPrefs.description "Ĉi tiuj opcioj ne estas malfarataj, kiam Customizations malinstaliĝas.">
 <!ENTITY toolbarAction.filters "Malfermi filtrilajn agordojn">
 <!ENTITY toolbarAction.disable "Malebligi Adblock Plus">
 <!ENTITY acceptableAdsDisplay.checkbox "Markobutono">
-<!ENTITY composerDefault.label "Defaŭlta elekto en Filter Composer">
 <!ENTITY toolbarAction.menu "Malfermi menuon">
-<!ENTITY toolbarAction.label "Ago per maldekstra klako al elemento de ilobreto/strio de aldonaĵoj">
-<!ENTITY oneLineSubscriptions.label "Aboninformoj en unu linio">
-<!ENTITY greenToolbarIcon.label "Speciala bildsimbolo por paĝoj en blanka listo">
+<!ENTITY acceptableAdsDisplay.subscription "Filtrilabono">
 <!ENTITY acceptableAdsDisplay.label "Vidigi &quot;nealtrudiĝantajn anoncojn&quot; en agordoj">
+<!ENTITY greenToolbarIcon.label "Speciala bildsimbolo por paĝoj en blanka listo">
+<!ENTITY oneLineSubscriptions.label "Aboninformoj en unu linio">
 <!ENTITY composerDefault.exact "Ekzakta kongruo">
 <!ENTITY removeActionsButton.label "Forigi ag-butonojn">
 <!ENTITY toolbarAction.blockable "Malfermi blokeblajn elementojn">
 <!ENTITY composerDefault.directory "Tuta dosierujo">
-<!ENTITY toolbarIconDisplay.label "Vidigo de elementoj en ilobreto/strio de aldonaĵoj">
-<!ENTITY hiddenPrefs.description "Ĉi tiuj opcioj ne estas malfarataj, kiam Customizations malinstaliĝas.">
+<!ENTITY composerDefault.label "Defaŭlta elekto en Filter Composer">
 <!ENTITY removeMenus.label "Forigi Adblock Plus el foliumilaj menuoj">
 <!ENTITY toolbarIconDisplay.text "Nur teksto">
 <!ENTITY composerDefault.custom "Propra modelo">

@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Personalizări Preferințe Filtre">
+<!ENTITY acceptableAdsDisplay.subscription "Abonament filtre">
+<!ENTITY toolbarAction.none "Nici una">
+<!ENTITY toolbarAction.filters "Deschidere Preferințe filtre">
+<!ENTITY toolbarAction.disable "Dezactivează Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Caseta de selectare">
+<!ENTITY composerDefault.label "Opţiunea implicită la crearea filtrelor">
+<!ENTITY toolbarAction.menu "Deschide meniu">
+<!ENTITY toolbarAction.label "Acțiune clic-stânga a elementului din bara de instrumente">
+<!ENTITY oneLineSubscriptions.label "Informații abonament pe o singură linie">
+<!ENTITY greenToolbarIcon.label "Pictogramă specială pentru paginile permise">
+<!ENTITY acceptableAdsDisplay.label "Arată opțiunea &quot;Permite publicitatea discretă&quot; în Preferințe filtre">
+<!ENTITY composerDefault.exact "Potrivire exactă">
+<!ENTITY removeActionsButton.label "Eliminare butoane acțiuni">
+<!ENTITY toolbarAction.blockable "Deschide lista elementelor blocabile">
+<!ENTITY composerDefault.directory "Tot dosarul">
+<!ENTITY toolbarIconDisplay.label "Afișare element din bara de instrumente">
+<!ENTITY hiddenPrefs.description "Aceste opțiuni nu vor fi şterse dacă extensia este dezinstalată.">
+<!ENTITY removeMenus.label "Elimină Adblock Plus din meniurile navigatorului">
+<!ENTITY toolbarIconDisplay.text "Doar text">
+<!ENTITY composerDefault.custom "Model individual">
+<!ENTITY misc.label "Particularizări diverse">
+<!ENTITY verticalPreferencesLayout.label "Așezare în pagină verticală">
+<!ENTITY toolbarIconDisplay.default "Implicit">
+<!ENTITY toolbarIconDisplay.image "Doar pictogramă">
+<!ENTITY hiddenPrefs.label "Opţiuni ascunse Adblock Plus">
+<!ENTITY composerDefault.site "Tot site-ul">
+<!ENTITY toolbarIconDisplay.both "Pictogramă și text">

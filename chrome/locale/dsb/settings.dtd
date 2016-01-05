@@ -1,21 +1,19 @@
 <!ENTITY filterPreferences.label "Pśiměrjenja za filtrowe nastajenja">
-<!ENTITY acceptableAdsDisplay.subscription "Filtrowy abonement">
 <!ENTITY toolbarAction.none "Žeden">
+<!ENTITY hiddenPrefs.description "Toś te opcije njebudu se anulěrowaś, jolic Customizations for Adblock Plus se wótinstalěrujo.">
 <!ENTITY toolbarAction.filters "Filtrowe nastajenja wócyniś">
 <!ENTITY toolbarAction.disable "Adblock Plus znjemóžniś">
 <!ENTITY acceptableAdsDisplay.checkbox "Kontrolny kašćik">
-<!ENTITY composerDefault.label "Standardny wuběrk w Filtrowem editorje">
 <!ENTITY toolbarAction.menu "Meni wócyniś">
-<!ENTITY toolbarAction.label "Akcija lěweho kliknjenja za zapisk gratoweje lajsty/lajsty přidatkow">
-<!ENTITY oneLineSubscriptions.label "Abonementne informacije w jadnej smužce">
-<!ENTITY greenToolbarIcon.label "Specialny symbol za boki w běłej lisćinje">
+<!ENTITY acceptableAdsDisplay.subscription "Filtrowy abonement">
 <!ENTITY acceptableAdsDisplay.label "&quot;Decentne wabjenje&quot; w nastajenjach zwobrazniś">
+<!ENTITY greenToolbarIcon.label "Specialny symbol za boki w běłej lisćinje">
+<!ENTITY oneLineSubscriptions.label "Abonementne informacije w jadnej smužce">
 <!ENTITY composerDefault.exact "Dokradne wótpowědowanje">
 <!ENTITY removeActionsButton.label "Tłocaški akcijow wótpóraś">
 <!ENTITY toolbarAction.blockable "Blokěrujobne zapiski wócyniś">
 <!ENTITY composerDefault.directory "Ceły zapis">
-<!ENTITY toolbarIconDisplay.label "Zapisk rědoweje kšomy/kšomy dodankow zwobrazniś">
-<!ENTITY hiddenPrefs.description "Toś te opcije njebudu se anulěrowaś, jolic Customizations for Adblock Plus se wótinstalěrujo.">
+<!ENTITY composerDefault.label "Standardny wuběrk w Filtrowem editorje">
 <!ENTITY removeMenus.label "Adblock Plus z menijow wobglědowaka wótpóraś">
 <!ENTITY toolbarIconDisplay.text "Jano tekst">
 <!ENTITY composerDefault.custom "Swójska šema">

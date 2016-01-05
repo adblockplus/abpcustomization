@@ -6,7 +6,7 @@
 <!ENTITY acceptableAdsDisplay.checkbox "תיבת סימון">
 <!ENTITY composerDefault.label "בחירת ברירת המחדל ביוצר המסנן">
 <!ENTITY toolbarAction.menu "פתיחת תפריט">
-<!ENTITY toolbarAction.label "פעולת הלחיצה השמאלית על סרגל הכלים/פריט שורת ההרחבות">
+<!ENTITY toolbarAction.label "הצג בלחיצה על הלחצן השמלאי בעכבר">
 <!ENTITY oneLineSubscriptions.label "פרטי הרשמה בשורה אחת">
 <!ENTITY greenToolbarIcon.label "אייקון מיוחד עבור עמודים ברשימת המותרים (whitelisted)">
 <!ENTITY acceptableAdsDisplay.label "תצוגת &quot;מודעות לא פולשניות&quot; בהעדפות">
@@ -14,7 +14,7 @@
 <!ENTITY removeActionsButton.label "הסרת כפתורי פעולות">
 <!ENTITY toolbarAction.blockable "פתיחת פריטים הניתנים לחסימה">
 <!ENTITY composerDefault.directory "כל הספרייה">
-<!ENTITY toolbarIconDisplay.label "הצגת סרגל הכלים/פריט שורת ההרחבות">
+<!ENTITY toolbarIconDisplay.label "הצגת פריט בסרגל הכלים">
 <!ENTITY hiddenPrefs.description "אפשרויות אלה לא יאופסו אם Customizations מוסר.">
 <!ENTITY removeMenus.label "הסרת Adblock Plus מתפריטי הדפדפן">
 <!ENTITY toolbarIconDisplay.text "טקסט בלבד">

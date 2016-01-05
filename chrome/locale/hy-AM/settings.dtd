@@ -1,0 +1,26 @@
+<!ENTITY filterPreferences.label "&quot;Ֆիլտրետրի կարգավորում&quot; պատուհանի փոփոխում">
+<!ENTITY toolbarAction.none "Ոչինչ">
+<!ENTITY hiddenPrefs.description "Այս կարգավորումները չեն կորչի եթե Անհատականացումը ջնջվի։">
+<!ENTITY toolbarAction.filters "Բացել ֆիլտրերի կարգավորումը">
+<!ENTITY toolbarAction.disable "Անջատել Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Դրոշակ">
+<!ENTITY toolbarAction.menu "Բացել մենյուն">
+<!ENTITY acceptableAdsDisplay.subscription "Ֆիլտրետրի բաժանորդագրություն">
+<!ENTITY acceptableAdsDisplay.label "Ցույց տալ &quot;հաճելի գովազդ&quot; էլեմենտը կարգավորումներում">
+<!ENTITY greenToolbarIcon.label "Հատում իկոնկա սպիտակ ցուցակի կայքերի համար">
+<!ENTITY oneLineSubscriptions.label "Բաժանորդագրությունները մի տողում">
+<!ENTITY composerDefault.exact "Ճշգրիտ համապատասխանեցում">
+<!ENTITY removeActionsButton.label "Ջնջել &quot;Գործողություններ&quot; կոճակը">
+<!ENTITY toolbarAction.blockable "Բացել արգելված էլեմնենտները">
+<!ENTITY composerDefault.directory "Ամբողջ կատալոգը">
+<!ENTITY composerDefault.label "Ֆիլտրերի ավելացման դեպքում ստանդարտ կարգավորումներ">
+<!ENTITY removeMenus.label "Հեռացնել Adblock Plus բրաուզերի մենյուներից">
+<!ENTITY toolbarIconDisplay.text "Միայն տեքստ">
+<!ENTITY composerDefault.custom "Սեփական շաբլոն">
+<!ENTITY misc.label "Այլ կարգավորումներ">
+<!ENTITY verticalPreferencesLayout.label "Ֆիլտրերի ներքևում">
+<!ENTITY toolbarIconDisplay.default "Ստանդարտ">
+<!ENTITY toolbarIconDisplay.image "Միայն իկոնկա">
+<!ENTITY hiddenPrefs.label "Թաքցնել Adblock Plus կարգավորումները">
+<!ENTITY composerDefault.site "Աբողջ կայքը">
+<!ENTITY toolbarIconDisplay.both "Իկոնկա և տեքստ">

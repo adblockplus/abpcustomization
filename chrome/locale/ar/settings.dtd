@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "تصفية تفضيلات التخصيصات">
+<!ENTITY acceptableAdsDisplay.subscription "فلتر الاشتراك">
+<!ENTITY toolbarAction.none "لا شيء">
+<!ENTITY toolbarAction.filters "فتح تفضيلات الفلتر">
+<!ENTITY toolbarAction.disable "تعطيل أد بلوك بلس">
+<!ENTITY acceptableAdsDisplay.checkbox "خانة الاختيار">
+<!ENTITY composerDefault.label "التحديد الافتراضي في &quot;تصفية الملحن&quot;">
+<!ENTITY toolbarAction.menu "فتح القائمة">
+<!ENTITY toolbarAction.label "شريط أدوات عنصر العمل الأيسر">
+<!ENTITY oneLineSubscriptions.label "معلومات الاشتراك على خط واحد">
+<!ENTITY greenToolbarIcon.label "أيقونة خاصة للصفحات المدرجة في القائمة البيضاء">
+<!ENTITY acceptableAdsDisplay.label "عرض &quot;إعلان عدم التدخل&quot; في تفضيلات">
+<!ENTITY composerDefault.exact "تطابق تام">
+<!ENTITY removeActionsButton.label "إزالة أزرار الإجراءات">
+<!ENTITY toolbarAction.blockable "فتح العناصر المحجوبة">
+<!ENTITY composerDefault.directory "الملف بأكمله">
+<!ENTITY toolbarIconDisplay.label "عرض العنصر في شريط الأدوات">
+<!ENTITY hiddenPrefs.description "سيتم إعادة تعيين هذه الخيارات إذا تم إلغاء تثبيت التخصيصات.">
+<!ENTITY removeMenus.label "إزالة آد بلوك بلس من قوائم المتصفّح">
+<!ENTITY toolbarIconDisplay.text "النص فقط">
+<!ENTITY composerDefault.custom "نموذج مخصص">
+<!ENTITY misc.label "تخصيصات متفرقة">
+<!ENTITY verticalPreferencesLayout.label "تصميم عمودي">
+<!ENTITY toolbarIconDisplay.default "افتراضي">
+<!ENTITY toolbarIconDisplay.image "الرمز فقط">
+<!ENTITY hiddenPrefs.label "خيارات أد بلوك بلس الخفية">
+<!ENTITY composerDefault.site "الموقع بأكمله">
+<!ENTITY toolbarIconDisplay.both "الأيقونة و النص">

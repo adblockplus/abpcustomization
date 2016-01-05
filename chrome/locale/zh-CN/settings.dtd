@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "过滤规则偏好定制">
+<!ENTITY acceptableAdsDisplay.subscription "过滤规则订阅组">
+<!ENTITY toolbarAction.none "无">
+<!ENTITY toolbarAction.filters "打开过滤规则首选项">
+<!ENTITY toolbarAction.disable "禁用 Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "复选框">
+<!ENTITY composerDefault.label "过滤规则创建时的默认选择">
+<!ENTITY toolbarAction.menu "打开菜单">
+<!ENTITY toolbarAction.label "左键点击工具栏项目时">
+<!ENTITY oneLineSubscriptions.label "在一行上显示订阅信息">
+<!ENTITY greenToolbarIcon.label "白名单页面的特殊图标">
+<!ENTITY acceptableAdsDisplay.label "在首选项中显示的“非侵入式广告”">
+<!ENTITY composerDefault.exact "精确匹配">
+<!ENTITY removeActionsButton.label "移除动作按钮">
+<!ENTITY toolbarAction.blockable "打开可过滤项目">
+<!ENTITY composerDefault.directory "整个目录">
+<!ENTITY toolbarIconDisplay.label "显示工具栏项目">
+<!ENTITY hiddenPrefs.description "如果 Customizations 被卸载，这些选项不会被重置。">
+<!ENTITY removeMenus.label "从浏览器菜单中移除 Adblock Plus">
+<!ENTITY toolbarIconDisplay.text "仅文字">
+<!ENTITY composerDefault.custom "自定模式">
+<!ENTITY misc.label "其他自定义">
+<!ENTITY verticalPreferencesLayout.label "垂直布局">
+<!ENTITY toolbarIconDisplay.default "默认">
+<!ENTITY toolbarIconDisplay.image "仅图标">
+<!ENTITY hiddenPrefs.label "隐藏 Adblock Plus 选项">
+<!ENTITY composerDefault.site "整个站点">
+<!ENTITY toolbarIconDisplay.both "图标和文字">

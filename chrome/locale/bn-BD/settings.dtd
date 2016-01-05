@@ -1,0 +1,8 @@
+<!ENTITY toolbarAction.menu "মেনু খুলুন">
+<!ENTITY toolbarIconDisplay.default "ডিফল্ট">
+<!ENTITY toolbarIconDisplay.text "শুধুমাত্র পাঠ্য">
+<!ENTITY toolbarAction.none "কোনটি নয়">
+<!ENTITY toolbarIconDisplay.image "শুধুমাত্র আইকন">
+<!ENTITY hiddenPrefs.label "লুকানো Adblock Plus-এর অপশনস">
+<!ENTITY toolbarAction.disable "অ্যাডব্লক প্লাস নিষ্ক্রিয় করুন">
+<!ENTITY toolbarIconDisplay.both "আইকন এবং পাঠ্য">

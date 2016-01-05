@@ -1,21 +1,19 @@
 <!ENTITY filterPreferences.label "Přiměrjenja filtrowych nastajenjow">
-<!ENTITY acceptableAdsDisplay.subscription "Filtrowy abonement">
 <!ENTITY toolbarAction.none "Žadyn">
+<!ENTITY hiddenPrefs.description "Tute opcije njebudu so anulować, jeli Customizations for Adblock Plus so wotinstaluje.">
 <!ENTITY toolbarAction.filters "Filtrowe nastajenja wočinić">
 <!ENTITY toolbarAction.disable "Adblock Plus znjemóžnić">
 <!ENTITY acceptableAdsDisplay.checkbox "Kontrolny kašćik">
-<!ENTITY composerDefault.label "Standardny wuběr we Filtrowym editorje">
 <!ENTITY toolbarAction.menu "Meni wočinić">
-<!ENTITY toolbarAction.label "Akicja lěweho kliknjenja za zapisk gratoweje lajsty/lajsty přidatkow">
-<!ENTITY oneLineSubscriptions.label "Abonementske informacije w jednej lince">
-<!ENTITY greenToolbarIcon.label "Specialny symbol za strony w běłej lisćinje">
+<!ENTITY acceptableAdsDisplay.subscription "Filtrowy abonement">
 <!ENTITY acceptableAdsDisplay.label "&quot;Decentne wabjenje&quot; w nastajenjach zwobraznić">
+<!ENTITY greenToolbarIcon.label "Specialny symbol za strony w běłej lisćinje">
+<!ENTITY oneLineSubscriptions.label "Abonementske informacije w jednej lince">
 <!ENTITY composerDefault.exact "Dokładne wotpowědowanje">
 <!ENTITY removeActionsButton.label "Tłóčatka akcijow wotstronić">
 <!ENTITY toolbarAction.blockable "Blokujomne zapiski wočinić">
 <!ENTITY composerDefault.directory "Cyły zapis">
-<!ENTITY toolbarIconDisplay.label "Zapisk gratoweje lajsty/lajsty přidatkow zwobraznić">
-<!ENTITY hiddenPrefs.description "Tute opcije njebudu so anulować, jeli Customizations for Adblock Plus so wotinstaluje.">
+<!ENTITY composerDefault.label "Standardny wuběr we Filtrowym editorje">
 <!ENTITY removeMenus.label "Adblock Plus z menijow wobhladowaka wotstronić">
 <!ENTITY toolbarIconDisplay.text "Jenož tekst">
 <!ENTITY composerDefault.custom "Swójski šema">

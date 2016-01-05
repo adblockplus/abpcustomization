@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Prilagodbe osobitosti filtera">
+<!ENTITY acceptableAdsDisplay.subscription "Pretplata filtera">
+<!ENTITY toolbarAction.none "Nepoznato">
+<!ENTITY toolbarAction.filters "Otvori osobitosti filtera">
+<!ENTITY toolbarAction.disable "Onemogući Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Okvir za izbor">
+<!ENTITY composerDefault.label "Zadani odabir u Kompozitoru filtera">
+<!ENTITY toolbarAction.menu "Otvori izbornik">
+<!ENTITY toolbarAction.label "Akcija lijevom tipkom miša stavki alatne trake">
+<!ENTITY oneLineSubscriptions.label "Pretplata informacija u jednom retku">
+<!ENTITY greenToolbarIcon.label "Posebna ikona za dozvoljene stranice">
+<!ENTITY acceptableAdsDisplay.label "Prikaži u osobitostima &quot;Nenametljive reklame&quot;">
+<!ENTITY composerDefault.exact "Točna podudarnost">
+<!ENTITY removeActionsButton.label "Ukloni tipke radnji">
+<!ENTITY toolbarAction.blockable "Otvori blokirane stavke">
+<!ENTITY composerDefault.directory "Cijeli direktorij">
+<!ENTITY toolbarIconDisplay.label "Prikaz stavki alatne trake">
+<!ENTITY hiddenPrefs.description "Ove mogućnosti neće biti poništene ako su Podešavanja uklonjena.">
+<!ENTITY removeMenus.label "Ukloni Adblock Plus iz izbornika preglednika">
+<!ENTITY toolbarIconDisplay.text "Samo tekst">
+<!ENTITY composerDefault.custom "Prilagođeni predložak">
+<!ENTITY misc.label "Ostala podešavanja">
+<!ENTITY verticalPreferencesLayout.label "Okomit izgled">
+<!ENTITY toolbarIconDisplay.default "Zadano">
+<!ENTITY toolbarIconDisplay.image "Samo ikone">
+<!ENTITY hiddenPrefs.label "Skrivene Adblock Plus mogućnosti">
+<!ENTITY composerDefault.site "Cijela stranica">
+<!ENTITY toolbarIconDisplay.both "Ikone i tekst">

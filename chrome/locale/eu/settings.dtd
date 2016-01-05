@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Iragazki hobespenen pertsonalizazioak">
+<!ENTITY acceptableAdsDisplay.subscription "Iragazki harpidetza">
+<!ENTITY toolbarAction.none "Bat ere ez">
+<!ENTITY toolbarAction.filters "Ireki iragazki hobespenak">
+<!ENTITY toolbarAction.disable "Ezgaitu Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Kontrol-kutxa">
+<!ENTITY composerDefault.label "Lehenetsitako aukeraketa iragazki-prestatzailean">
+<!ENTITY toolbarAction.menu "Ireki menua">
+<!ENTITY toolbarAction.label "Tresna-barrako elementuen ezkerreko klik ekintza">
+<!ENTITY oneLineSubscriptions.label "Harpidetza informazioa lerro bakarrean">
+<!ENTITY greenToolbarIcon.label "Ikono berezia zerrenda zuriko orrialdeentzat">
+<!ENTITY acceptableAdsDisplay.label "&quot;Iragarki ez intrusiboak&quot; bistaratu hobespenetan">
+<!ENTITY composerDefault.exact "Bat etortze zehatza">
+<!ENTITY removeActionsButton.label "Kendu ekintzak botoiak">
+<!ENTITY toolbarAction.blockable "Ireki elementu blokeagarriak">
+<!ENTITY composerDefault.directory "Direktorio osoa">
+<!ENTITY toolbarIconDisplay.label "Tresna-barrako elementua bistaratzea">
+<!ENTITY hiddenPrefs.description "Aukera hauek ez dira leheneratuko Customizations desinstalatzen bada.">
+<!ENTITY removeMenus.label "Kendu Adblock Plus nabigatzailearen menuetatik">
+<!ENTITY toolbarIconDisplay.text "Testua besterik ez">
+<!ENTITY composerDefault.custom "Pertsonalizatutako eredua">
+<!ENTITY misc.label "Askotariko pertsonalizazioak">
+<!ENTITY verticalPreferencesLayout.label "Diseinu bertikala">
+<!ENTITY toolbarIconDisplay.default "Lehenetsia">
+<!ENTITY toolbarIconDisplay.image "Ikonoa besterik ez">
+<!ENTITY hiddenPrefs.label "Ezkutuko Adblock Plus aukerak">
+<!ENTITY composerDefault.site "Gune osoa">
+<!ENTITY toolbarIconDisplay.both "Ikonoa eta testua">

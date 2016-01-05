@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Kustomisasi preferensi penyaring">
+<!ENTITY acceptableAdsDisplay.subscription "Langganan penyaring">
+<!ENTITY toolbarAction.none "Tidak ada">
+<!ENTITY toolbarAction.filters "Buka preferensi penyaring">
+<!ENTITY toolbarAction.disable "Nonaktifkan Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Kotak centang">
+<!ENTITY composerDefault.label "Pilihan bawaan di Pembuatan Filter">
+<!ENTITY toolbarAction.menu "Buka menu">
+<!ENTITY toolbarAction.label "Aksi klik-kiri item toolbar">
+<!ENTITY oneLineSubscriptions.label "Info Langganan pada satu baris">
+<!ENTITY greenToolbarIcon.label "Ikon khusus untuk halaman daftar putih">
+<!ENTITY acceptableAdsDisplay.label "&quot;Bukan iklan yang mengganggu&quot; tampilkan di preferensi">
+<!ENTITY composerDefault.exact "Pencocokan tepat">
+<!ENTITY removeActionsButton.label "Hapus tombol Tindakan">
+<!ENTITY toolbarAction.blockable "Buka item yang dapat diblokir">
+<!ENTITY composerDefault.directory "Seluruh direktori">
+<!ENTITY toolbarIconDisplay.label "Tampilan item Toolbar">
+<!ENTITY hiddenPrefs.description "Opsi ini tidak akan dimuat ualang jika Kostumisasi tidak diinstall.">
+<!ENTITY removeMenus.label "Hapus Adblock Plus dari menu peramban">
+<!ENTITY toolbarIconDisplay.text "Hanya teks">
+<!ENTITY composerDefault.custom "Ubahsuaian pola">
+<!ENTITY misc.label "Kustomisasi lebih lanjut">
+<!ENTITY verticalPreferencesLayout.label "Tata letak vertikal">
+<!ENTITY toolbarIconDisplay.default "Bawaan">
+<!ENTITY toolbarIconDisplay.image "Hanya ikon">
+<!ENTITY hiddenPrefs.label "Sembunyikan opsi Adblock Plus">
+<!ENTITY composerDefault.site "Seluruh situs web">
+<!ENTITY toolbarIconDisplay.both "Ikon dan Teks">
