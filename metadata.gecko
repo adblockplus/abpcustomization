@@ -10,6 +10,6 @@ optionsType=2
 default=https://adblockplus.org/customizations
 
 [compat]
-firefox=16.0/48.0
-thunderbird=16.0/48.0
-seamonkey=2.13/2.45
+firefox=16.0/49.0
+thunderbird=16.0/49.0
+seamonkey=2.13/2.46
