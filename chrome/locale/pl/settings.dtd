@@ -7,22 +7,22 @@
 <!ENTITY composerDefault.label "Domyślny wybór w Kompozytorze filtru">
 <!ENTITY toolbarAction.menu "Otwórz menu">
 <!ENTITY toolbarAction.label "Czynność wykonywana po kliknięciu elementu na pasku narzędzi/dodatków">
-<!ENTITY oneLineSubscriptions.label "Informacja o subskrypcji w jednym wierszu">
+<!ENTITY oneLineSubscriptions.label "Informacja o subskrypcji w jednej linii">
 <!ENTITY greenToolbarIcon.label "Specjalna ikona dla stron w białej liście">
 <!ENTITY acceptableAdsDisplay.label "Wyświetlaj w ustawieniach opcję „Nienatarczywe reklamy”">
 <!ENTITY composerDefault.exact "Dokładne dopasowanie">
 <!ENTITY removeActionsButton.label "Usuń przyciski akcji">
 <!ENTITY toolbarAction.blockable "Otwórz listę blokowalnych elementów">
 <!ENTITY composerDefault.directory "Cały katalog">
-<!ENTITY toolbarIconDisplay.label "Wygląd elementu na pasku narzędzi/dodatktów">
+<!ENTITY toolbarIconDisplay.label "Wygląd elementu na pasku narzędzi/dodatków">
 <!ENTITY hiddenPrefs.description "Opcje te nie zostaną zresetowane podczas dezinstalacji dodatku.">
 <!ENTITY removeMenus.label "Usuń Adblocka Plus z menu przeglądarki">
 <!ENTITY toolbarIconDisplay.text "Tylko tekst">
 <!ENTITY composerDefault.custom "Własna matryca">
-<!ENTITY misc.label "Inne dostosowywania">
+<!ENTITY misc.label "Różne modyfikacje">
 <!ENTITY verticalPreferencesLayout.label "Układ pionowy">
 <!ENTITY toolbarIconDisplay.default "Domyślnie">
 <!ENTITY toolbarIconDisplay.image "Tylko ikona">
-<!ENTITY hiddenPrefs.label "Ukryte opcje Adblocka Plus">
+<!ENTITY hiddenPrefs.label "Ukryte opcje Adblock Plusa">
 <!ENTITY composerDefault.site "Cała witryna">
-<!ENTITY toolbarIconDisplay.both "Ikony i tekst">
+<!ENTITY toolbarIconDisplay.both "Ikona i tekst">

@@ -1,0 +1,28 @@
+<!ENTITY filterPreferences.label "Voorkeure filter veranderinge">
+<!ENTITY acceptableAdsDisplay.subscription "Inskywing filter">
+<!ENTITY toolbarAction.none "Geen">
+<!ENTITY toolbarAction.filters "Oop Voorkeure Filter">
+<!ENTITY toolbarAction.disable "Skakel Adblock Plus">
+<!ENTITY acceptableAdsDisplay.checkbox "Boks">
+<!ENTITY composerDefault.label "Standaard keuse in Filter Composer">
+<!ENTITY toolbarAction.menu "Oop spyskaart">
+<!ENTITY toolbarAction.label "Toolbar item links-kliek aksie">
+<!ENTITY oneLineSubscriptions.label "Inskrywing inlighting op 'n reël">
+<!ENTITY greenToolbarIcon.label "Spesiale ikoon vir die wit bladsye">
+<!ENTITY acceptableAdsDisplay.label "'' Nie-indringende advertensies '' vertoning in voorkeure">
+<!ENTITY composerDefault.exact "Presiese wedstryd">
+<!ENTITY removeActionsButton.label "Verwyder aksies knoppies">
+<!ENTITY toolbarAction.blockable "Oop blokbare voorwerpe">
+<!ENTITY composerDefault.directory "Hele gids">
+<!ENTITY toolbarIconDisplay.label "Toolbar item vertoon">
+<!ENTITY hiddenPrefs.description "Hierdie opsies sal nie weer as Veranderinge is verwyder.">
+<!ENTITY removeMenus.label "Verwyder Adblock Plus uit leser spyskaarte">
+<!ENTITY toolbarIconDisplay.text "Slegs teks">
+<!ENTITY composerDefault.custom "Custom patroon">
+<!ENTITY misc.label "Diverse veranderinge">
+<!ENTITY verticalPreferencesLayout.label "Vertikale uitleg">
+<!ENTITY toolbarIconDisplay.default "Verstek">
+<!ENTITY toolbarIconDisplay.image "Net ikoon">
+<!ENTITY hiddenPrefs.label "Verborge Adblock Plus opsies">
+<!ENTITY composerDefault.site "Die hele werf">
+<!ENTITY toolbarIconDisplay.both "Ikoon en teks">
